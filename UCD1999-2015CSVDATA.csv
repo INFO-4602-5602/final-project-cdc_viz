@@ -1,0 +1,1572 @@
+Notes,ICDChapter,ICDChapterCode,Ten-Year Age Groups,Age,Gender,Gender Code,Race,Deaths,Population,Crude Rate
+,Certain infectious and parasitic diseases,A00-B99,< 1 year,0.5,Female,F,American Indian or Alaska Native,69,577851,11.9
+,Certain infectious and parasitic diseases,A00-B99,< 1 year,0.5,Female,F,Asian or Pacific Islander,145,1784464,8.1
+,Certain infectious and parasitic diseases,A00-B99,< 1 year,0.5,Female,F,Black or African American,1470,5502064,26.7
+,Certain infectious and parasitic diseases,A00-B99,< 1 year,0.5,Female,F,White,2475,25194405,9.8
+,Certain infectious and parasitic diseases,A00-B99,< 1 year,0.5,Male,M,American Indian or Alaska Native,89,593681,15
+,Certain infectious and parasitic diseases,A00-B99,< 1 year,0.5,Male,M,Asian or Pacific Islander,162,1878079,8.6
+,Certain infectious and parasitic diseases,A00-B99,< 1 year,0.5,Male,M,Black or African American,1816,5704226,31.8
+,Certain infectious and parasitic diseases,A00-B99,< 1 year,0.5,Male,M,White,3111,26403276,11.8
+,Neoplasms,C00-D48,< 1 year,0.5,Female,F,American Indian or Alaska Native,8,577851,Unreliable
+,Neoplasms,C00-D48,< 1 year,0.5,Female,F,Asian or Pacific Islander,50,1784464,2.8
+,Neoplasms,C00-D48,< 1 year,0.5,Female,F,Black or African American,176,5502064,3.2
+,Neoplasms,C00-D48,< 1 year,0.5,Female,F,White,817,25194405,3.2
+,Neoplasms,C00-D48,< 1 year,0.5,Male,M,American Indian or Alaska Native,16,593681,Unreliable
+,Neoplasms,C00-D48,< 1 year,0.5,Male,M,Asian or Pacific Islander,54,1878079,2.9
+,Neoplasms,C00-D48,< 1 year,0.5,Male,M,Black or African American,153,5704226,2.7
+,Neoplasms,C00-D48,< 1 year,0.5,Male,M,White,889,26403276,3.4
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,< 1 year,0.5,Female,F,American Indian or Alaska Native,7,577851,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,< 1 year,0.5,Female,F,Asian or Pacific Islander,61,1784464,3.4
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,< 1 year,0.5,Female,F,Black or African American,149,5502064,2.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,< 1 year,0.5,Female,F,White,438,25194405,1.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,< 1 year,0.5,Male,M,American Indian or Alaska Native,10,593681,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,< 1 year,0.5,Male,M,Asian or Pacific Islander,68,1878079,3.6
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,< 1 year,0.5,Male,M,Black or African American,232,5704226,4.1
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,< 1 year,0.5,Male,M,White,604,26403276,2.3
+,"Endocrine, nutritional and metabolic diseases",E00-E88,< 1 year,0.5,Female,F,American Indian or Alaska Native,41,577851,7.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,< 1 year,0.5,Female,F,Asian or Pacific Islander,66,1784464,3.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,< 1 year,0.5,Female,F,Black or African American,369,5502064,6.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,< 1 year,0.5,Female,F,White,1132,25194405,4.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,< 1 year,0.5,Male,M,American Indian or Alaska Native,30,593681,5.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,< 1 year,0.5,Male,M,Asian or Pacific Islander,127,1878079,6.8
+,"Endocrine, nutritional and metabolic diseases",E00-E88,< 1 year,0.5,Male,M,Black or African American,463,5704226,8.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,< 1 year,0.5,Male,M,White,1552,26403276,5.9
+,Mental and behavioural disorders,F01-F99,< 1 year,0.5,Female,F,American Indian or Alaska Native,1,577851,Unreliable
+,Mental and behavioural disorders,F01-F99,< 1 year,0.5,Female,F,Black or African American,8,5502064,Unreliable
+,Mental and behavioural disorders,F01-F99,< 1 year,0.5,Female,F,White,17,25194405,Unreliable
+,Mental and behavioural disorders,F01-F99,< 1 year,0.5,Male,M,Asian or Pacific Islander,1,1878079,Unreliable
+,Mental and behavioural disorders,F01-F99,< 1 year,0.5,Male,M,Black or African American,8,5704226,Unreliable
+,Mental and behavioural disorders,F01-F99,< 1 year,0.5,Male,M,White,19,26403276,Unreliable
+,Diseases of the nervous system,G00-G98,< 1 year,0.5,Female,F,American Indian or Alaska Native,33,577851,5.7
+,Diseases of the nervous system,G00-G98,< 1 year,0.5,Female,F,Asian or Pacific Islander,128,1784464,7.2
+,Diseases of the nervous system,G00-G98,< 1 year,0.5,Female,F,Black or African American,623,5502064,11.3
+,Diseases of the nervous system,G00-G98,< 1 year,0.5,Female,F,White,1897,25194405,7.5
+,Diseases of the nervous system,G00-G98,< 1 year,0.5,Male,M,American Indian or Alaska Native,53,593681,8.9
+,Diseases of the nervous system,G00-G98,< 1 year,0.5,Male,M,Asian or Pacific Islander,149,1878079,7.9
+,Diseases of the nervous system,G00-G98,< 1 year,0.5,Male,M,Black or African American,710,5704226,12.4
+,Diseases of the nervous system,G00-G98,< 1 year,0.5,Male,M,White,2599,26403276,9.8
+,Diseases of the eye and adnexa,H00-H57,< 1 year,0.5,Female,F,Asian or Pacific Islander,1,1784464,Unreliable
+,Diseases of the eye and adnexa,H00-H57,< 1 year,0.5,Female,F,Black or African American,2,5502064,Unreliable
+,Diseases of the eye and adnexa,H00-H57,< 1 year,0.5,Female,F,White,2,25194405,Unreliable
+,Diseases of the eye and adnexa,H00-H57,< 1 year,0.5,Male,M,Asian or Pacific Islander,1,1878079,Unreliable
+,Diseases of the eye and adnexa,H00-H57,< 1 year,0.5,Male,M,White,10,26403276,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,< 1 year,0.5,Female,F,American Indian or Alaska Native,1,577851,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,< 1 year,0.5,Female,F,Asian or Pacific Islander,2,1784464,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,< 1 year,0.5,Female,F,Black or African American,7,5502064,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,< 1 year,0.5,Female,F,White,13,25194405,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,< 1 year,0.5,Male,M,American Indian or Alaska Native,3,593681,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,< 1 year,0.5,Male,M,Black or African American,14,5704226,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,< 1 year,0.5,Male,M,White,26,26403276,0.1
+,Diseases of the circulatory system,I00-I99,< 1 year,0.5,Female,F,American Indian or Alaska Native,71,577851,12.3
+,Diseases of the circulatory system,I00-I99,< 1 year,0.5,Female,F,Asian or Pacific Islander,193,1784464,10.8
+,Diseases of the circulatory system,I00-I99,< 1 year,0.5,Female,F,Black or African American,1261,5502064,22.9
+,Diseases of the circulatory system,I00-I99,< 1 year,0.5,Female,F,White,2757,25194405,10.9
+,Diseases of the circulatory system,I00-I99,< 1 year,0.5,Male,M,American Indian or Alaska Native,70,593681,11.8
+,Diseases of the circulatory system,I00-I99,< 1 year,0.5,Male,M,Asian or Pacific Islander,207,1878079,11
+,Diseases of the circulatory system,I00-I99,< 1 year,0.5,Male,M,Black or African American,1568,5704226,27.5
+,Diseases of the circulatory system,I00-I99,< 1 year,0.5,Male,M,White,3376,26403276,12.8
+,Diseases of the respiratory system,J00-J98,< 1 year,0.5,Female,F,American Indian or Alaska Native,93,577851,16.1
+,Diseases of the respiratory system,J00-J98,< 1 year,0.5,Female,F,Asian or Pacific Islander,138,1784464,7.7
+,Diseases of the respiratory system,J00-J98,< 1 year,0.5,Female,F,Black or African American,1595,5502064,29
+,Diseases of the respiratory system,J00-J98,< 1 year,0.5,Female,F,White,2488,25194405,9.9
+,Diseases of the respiratory system,J00-J98,< 1 year,0.5,Male,M,American Indian or Alaska Native,140,593681,23.6
+,Diseases of the respiratory system,J00-J98,< 1 year,0.5,Male,M,Asian or Pacific Islander,202,1878079,10.8
+,Diseases of the respiratory system,J00-J98,< 1 year,0.5,Male,M,Black or African American,2148,5704226,37.7
+,Diseases of the respiratory system,J00-J98,< 1 year,0.5,Male,M,White,3621,26403276,13.7
+,Diseases of the digestive system,K00-K92,< 1 year,0.5,Female,F,American Indian or Alaska Native,40,577851,6.9
+,Diseases of the digestive system,K00-K92,< 1 year,0.5,Female,F,Asian or Pacific Islander,102,1784464,5.7
+,Diseases of the digestive system,K00-K92,< 1 year,0.5,Female,F,Black or African American,960,5502064,17.4
+,Diseases of the digestive system,K00-K92,< 1 year,0.5,Female,F,White,1701,25194405,6.8
+,Diseases of the digestive system,K00-K92,< 1 year,0.5,Male,M,American Indian or Alaska Native,56,593681,9.4
+,Diseases of the digestive system,K00-K92,< 1 year,0.5,Male,M,Asian or Pacific Islander,159,1878079,8.5
+,Diseases of the digestive system,K00-K92,< 1 year,0.5,Male,M,Black or African American,1429,5704226,25.1
+,Diseases of the digestive system,K00-K92,< 1 year,0.5,Male,M,White,2465,26403276,9.3
+,Diseases of the skin and subcutaneous tissue,L00-L98,< 1 year,0.5,Female,F,Black or African American,3,5502064,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,< 1 year,0.5,Female,F,White,10,25194405,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,< 1 year,0.5,Male,M,American Indian or Alaska Native,1,593681,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,< 1 year,0.5,Male,M,Asian or Pacific Islander,2,1878079,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,< 1 year,0.5,Male,M,Black or African American,10,5704226,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,< 1 year,0.5,Male,M,White,15,26403276,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,< 1 year,0.5,Female,F,American Indian or Alaska Native,2,577851,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,< 1 year,0.5,Female,F,Asian or Pacific Islander,2,1784464,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,< 1 year,0.5,Female,F,Black or African American,23,5502064,0.4
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,< 1 year,0.5,Female,F,White,59,25194405,0.2
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,< 1 year,0.5,Male,M,American Indian or Alaska Native,1,593681,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,< 1 year,0.5,Male,M,Asian or Pacific Islander,8,1878079,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,< 1 year,0.5,Male,M,Black or African American,34,5704226,0.6
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,< 1 year,0.5,Male,M,White,91,26403276,0.3
+,Diseases of the genitourinary system,N00-N98,< 1 year,0.5,Female,F,American Indian or Alaska Native,5,577851,Unreliable
+,Diseases of the genitourinary system,N00-N98,< 1 year,0.5,Female,F,Asian or Pacific Islander,30,1784464,1.7
+,Diseases of the genitourinary system,N00-N98,< 1 year,0.5,Female,F,Black or African American,388,5502064,7.1
+,Diseases of the genitourinary system,N00-N98,< 1 year,0.5,Female,F,White,687,25194405,2.7
+,Diseases of the genitourinary system,N00-N98,< 1 year,0.5,Male,M,American Indian or Alaska Native,14,593681,Unreliable
+,Diseases of the genitourinary system,N00-N98,< 1 year,0.5,Male,M,Asian or Pacific Islander,46,1878079,2.4
+,Diseases of the genitourinary system,N00-N98,< 1 year,0.5,Male,M,Black or African American,481,5704226,8.4
+,Diseases of the genitourinary system,N00-N98,< 1 year,0.5,Male,M,White,928,26403276,3.5
+,Certain conditions originating in the perinatal period,P00-P96,< 1 year,0.5,Female,F,American Indian or Alaska Native,911,577851,157.7
+,Certain conditions originating in the perinatal period,P00-P96,< 1 year,0.5,Female,F,Asian or Pacific Islander,3318,1784464,185.9
+,Certain conditions originating in the perinatal period,P00-P96,< 1 year,0.5,Female,F,Black or African American,34361,5502064,624.5
+,Certain conditions originating in the perinatal period,P00-P96,< 1 year,0.5,Female,F,White,59847,25194405,237.5
+,Certain conditions originating in the perinatal period,P00-P96,< 1 year,0.5,Male,M,American Indian or Alaska Native,1295,593681,218.1
+,Certain conditions originating in the perinatal period,P00-P96,< 1 year,0.5,Male,M,Asian or Pacific Islander,4245,1878079,226
+,Certain conditions originating in the perinatal period,P00-P96,< 1 year,0.5,Male,M,Black or African American,43709,5704226,766.3
+,Certain conditions originating in the perinatal period,P00-P96,< 1 year,0.5,Male,M,White,77602,26403276,293.9
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,< 1 year,0.5,Female,F,American Indian or Alaska Native,583,577851,100.9
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,< 1 year,0.5,Female,F,Asian or Pacific Islander,1594,1784464,89.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,< 1 year,0.5,Female,F,Black or African American,8473,5502064,154
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,< 1 year,0.5,Female,F,White,32505,25194405,129
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,< 1 year,0.5,Male,M,American Indian or Alaska Native,685,593681,115.4
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,< 1 year,0.5,Male,M,Asian or Pacific Islander,1753,1878079,93.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,< 1 year,0.5,Male,M,Black or African American,9185,5704226,161
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,< 1 year,0.5,Male,M,White,36318,26403276,137.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,< 1 year,0.5,Female,F,American Indian or Alaska Native,529,577851,91.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,< 1 year,0.5,Female,F,Asian or Pacific Islander,466,1784464,26.1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,< 1 year,0.5,Female,F,Black or African American,7629,5502064,138.7
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,< 1 year,0.5,Female,F,White,14186,25194405,56.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,< 1 year,0.5,Male,M,American Indian or Alaska Native,728,593681,122.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,< 1 year,0.5,Male,M,Asian or Pacific Islander,673,1878079,35.8
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,< 1 year,0.5,Male,M,Black or African American,10217,5704226,179.1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,< 1 year,0.5,Male,M,White,20875,26403276,79.1
+,External causes of morbidity and mortality,V01-Y89,< 1 year,0.5,Female,F,American Indian or Alaska Native,256,577851,44.3
+,External causes of morbidity and mortality,V01-Y89,< 1 year,0.5,Female,F,Asian or Pacific Islander,216,1784464,12.1
+,External causes of morbidity and mortality,V01-Y89,< 1 year,0.5,Female,F,Black or African American,3773,5502064,68.6
+,External causes of morbidity and mortality,V01-Y89,< 1 year,0.5,Female,F,White,6816,25194405,27.1
+,External causes of morbidity and mortality,V01-Y89,< 1 year,0.5,Male,M,American Indian or Alaska Native,357,593681,60.1
+,External causes of morbidity and mortality,V01-Y89,< 1 year,0.5,Male,M,Asian or Pacific Islander,298,1878079,15.9
+,External causes of morbidity and mortality,V01-Y89,< 1 year,0.5,Male,M,Black or African American,4684,5704226,82.1
+,External causes of morbidity and mortality,V01-Y89,< 1 year,0.5,Male,M,White,9477,26403276,35.9
+,Certain infectious and parasitic diseases,A00-B99,1-4 years,2.5,Female,F,American Indian or Alaska Native,34,2240838,1.5
+,Certain infectious and parasitic diseases,A00-B99,1-4 years,2.5,Female,F,Asian or Pacific Islander,76,7185065,1.1
+,Certain infectious and parasitic diseases,A00-B99,1-4 years,2.5,Female,F,Black or African American,328,21771769,1.5
+,Certain infectious and parasitic diseases,A00-B99,1-4 years,2.5,Female,F,White,985,100482059,1
+,Certain infectious and parasitic diseases,A00-B99,1-4 years,2.5,Male,M,American Indian or Alaska Native,38,2307549,1.6
+,Certain infectious and parasitic diseases,A00-B99,1-4 years,2.5,Male,M,Asian or Pacific Islander,81,7402086,1.1
+,Certain infectious and parasitic diseases,A00-B99,1-4 years,2.5,Male,M,Black or African American,410,22515847,1.8
+,Certain infectious and parasitic diseases,A00-B99,1-4 years,2.5,Male,M,White,1155,105386729,1.1
+,Neoplasms,C00-D48,1-4 years,2.5,Female,F,American Indian or Alaska Native,29,2240838,1.3
+,Neoplasms,C00-D48,1-4 years,2.5,Female,F,Asian or Pacific Islander,138,7185065,1.9
+,Neoplasms,C00-D48,1-4 years,2.5,Female,F,Black or African American,528,21771769,2.4
+,Neoplasms,C00-D48,1-4 years,2.5,Female,F,White,2630,100482059,2.6
+,Neoplasms,C00-D48,1-4 years,2.5,Male,M,American Indian or Alaska Native,52,2307549,2.3
+,Neoplasms,C00-D48,1-4 years,2.5,Male,M,Asian or Pacific Islander,174,7402086,2.4
+,Neoplasms,C00-D48,1-4 years,2.5,Male,M,Black or African American,627,22515847,2.8
+,Neoplasms,C00-D48,1-4 years,2.5,Male,M,White,3115,105386729,3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1-4 years,2.5,Female,F,American Indian or Alaska Native,7,2240838,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1-4 years,2.5,Female,F,Asian or Pacific Islander,33,7185065,0.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1-4 years,2.5,Female,F,Black or African American,162,21771769,0.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1-4 years,2.5,Female,F,White,323,100482059,0.3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1-4 years,2.5,Male,M,American Indian or Alaska Native,11,2307549,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1-4 years,2.5,Male,M,Asian or Pacific Islander,37,7402086,0.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1-4 years,2.5,Male,M,Black or African American,198,22515847,0.9
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1-4 years,2.5,Male,M,White,416,105386729,0.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,1-4 years,2.5,Female,F,American Indian or Alaska Native,21,2240838,0.9
+,"Endocrine, nutritional and metabolic diseases",E00-E88,1-4 years,2.5,Female,F,Asian or Pacific Islander,49,7185065,0.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,1-4 years,2.5,Female,F,Black or African American,180,21771769,0.8
+,"Endocrine, nutritional and metabolic diseases",E00-E88,1-4 years,2.5,Female,F,White,911,100482059,0.9
+,"Endocrine, nutritional and metabolic diseases",E00-E88,1-4 years,2.5,Male,M,American Indian or Alaska Native,25,2307549,1.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,1-4 years,2.5,Male,M,Asian or Pacific Islander,53,7402086,0.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,1-4 years,2.5,Male,M,Black or African American,205,22515847,0.9
+,"Endocrine, nutritional and metabolic diseases",E00-E88,1-4 years,2.5,Male,M,White,1077,105386729,1
+,Mental and behavioural disorders,F01-F99,1-4 years,2.5,Female,F,American Indian or Alaska Native,3,2240838,Unreliable
+,Mental and behavioural disorders,F01-F99,1-4 years,2.5,Female,F,Asian or Pacific Islander,5,7185065,Unreliable
+,Mental and behavioural disorders,F01-F99,1-4 years,2.5,Female,F,Black or African American,14,21771769,Unreliable
+,Mental and behavioural disorders,F01-F99,1-4 years,2.5,Female,F,White,47,100482059,0
+,Mental and behavioural disorders,F01-F99,1-4 years,2.5,Male,M,Asian or Pacific Islander,3,7402086,Unreliable
+,Mental and behavioural disorders,F01-F99,1-4 years,2.5,Male,M,Black or African American,15,22515847,Unreliable
+,Mental and behavioural disorders,F01-F99,1-4 years,2.5,Male,M,White,39,105386729,0
+,Diseases of the nervous system,G00-G98,1-4 years,2.5,Female,F,American Indian or Alaska Native,42,2240838,1.9
+,Diseases of the nervous system,G00-G98,1-4 years,2.5,Female,F,Asian or Pacific Islander,87,7185065,1.2
+,Diseases of the nervous system,G00-G98,1-4 years,2.5,Female,F,Black or African American,557,21771769,2.6
+,Diseases of the nervous system,G00-G98,1-4 years,2.5,Female,F,White,1452,100482059,1.4
+,Diseases of the nervous system,G00-G98,1-4 years,2.5,Male,M,American Indian or Alaska Native,49,2307549,2.1
+,Diseases of the nervous system,G00-G98,1-4 years,2.5,Male,M,Asian or Pacific Islander,105,7402086,1.4
+,Diseases of the nervous system,G00-G98,1-4 years,2.5,Male,M,Black or African American,607,22515847,2.7
+,Diseases of the nervous system,G00-G98,1-4 years,2.5,Male,M,White,1793,105386729,1.7
+,Diseases of the eye and adnexa,H00-H57,1-4 years,2.5,Female,F,White,3,100482059,Unreliable
+,Diseases of the eye and adnexa,H00-H57,1-4 years,2.5,Male,M,White,4,105386729,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,1-4 years,2.5,Female,F,American Indian or Alaska Native,1,2240838,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,1-4 years,2.5,Female,F,Black or African American,2,21771769,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,1-4 years,2.5,Female,F,White,20,100482059,0
+,Diseases of the ear and mastoid process,H60-H93,1-4 years,2.5,Male,M,Black or African American,4,22515847,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,1-4 years,2.5,Male,M,White,16,105386729,Unreliable
+,Diseases of the circulatory system,I00-I99,1-4 years,2.5,Female,F,American Indian or Alaska Native,29,2240838,1.3
+,Diseases of the circulatory system,I00-I99,1-4 years,2.5,Female,F,Asian or Pacific Islander,88,7185065,1.2
+,Diseases of the circulatory system,I00-I99,1-4 years,2.5,Female,F,Black or African American,530,21771769,2.4
+,Diseases of the circulatory system,I00-I99,1-4 years,2.5,Female,F,White,1162,100482059,1.2
+,Diseases of the circulatory system,I00-I99,1-4 years,2.5,Male,M,American Indian or Alaska Native,37,2307549,1.6
+,Diseases of the circulatory system,I00-I99,1-4 years,2.5,Male,M,Asian or Pacific Islander,72,7402086,1
+,Diseases of the circulatory system,I00-I99,1-4 years,2.5,Male,M,Black or African American,620,22515847,2.8
+,Diseases of the circulatory system,I00-I99,1-4 years,2.5,Male,M,White,1317,105386729,1.2
+,Diseases of the respiratory system,J00-J98,1-4 years,2.5,Female,F,American Indian or Alaska Native,48,2240838,2.1
+,Diseases of the respiratory system,J00-J98,1-4 years,2.5,Female,F,Asian or Pacific Islander,109,7185065,1.5
+,Diseases of the respiratory system,J00-J98,1-4 years,2.5,Female,F,Black or African American,627,21771769,2.9
+,Diseases of the respiratory system,J00-J98,1-4 years,2.5,Female,F,White,1446,100482059,1.4
+,Diseases of the respiratory system,J00-J98,1-4 years,2.5,Male,M,American Indian or Alaska Native,51,2307549,2.2
+,Diseases of the respiratory system,J00-J98,1-4 years,2.5,Male,M,Asian or Pacific Islander,122,7402086,1.6
+,Diseases of the respiratory system,J00-J98,1-4 years,2.5,Male,M,Black or African American,914,22515847,4.1
+,Diseases of the respiratory system,J00-J98,1-4 years,2.5,Male,M,White,1673,105386729,1.6
+,Diseases of the digestive system,K00-K92,1-4 years,2.5,Female,F,American Indian or Alaska Native,19,2240838,Unreliable
+,Diseases of the digestive system,K00-K92,1-4 years,2.5,Female,F,Asian or Pacific Islander,23,7185065,0.3
+,Diseases of the digestive system,K00-K92,1-4 years,2.5,Female,F,Black or African American,175,21771769,0.8
+,Diseases of the digestive system,K00-K92,1-4 years,2.5,Female,F,White,505,100482059,0.5
+,Diseases of the digestive system,K00-K92,1-4 years,2.5,Male,M,American Indian or Alaska Native,25,2307549,1.1
+,Diseases of the digestive system,K00-K92,1-4 years,2.5,Male,M,Asian or Pacific Islander,54,7402086,0.7
+,Diseases of the digestive system,K00-K92,1-4 years,2.5,Male,M,Black or African American,257,22515847,1.1
+,Diseases of the digestive system,K00-K92,1-4 years,2.5,Male,M,White,650,105386729,0.6
+,Diseases of the skin and subcutaneous tissue,L00-L98,1-4 years,2.5,Female,F,Asian or Pacific Islander,3,7185065,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,1-4 years,2.5,Female,F,Black or African American,2,21771769,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,1-4 years,2.5,Female,F,White,18,100482059,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,1-4 years,2.5,Male,M,Asian or Pacific Islander,2,7402086,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,1-4 years,2.5,Male,M,Black or African American,6,22515847,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,1-4 years,2.5,Male,M,White,21,105386729,0
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,1-4 years,2.5,Female,F,Asian or Pacific Islander,9,7185065,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,1-4 years,2.5,Female,F,Black or African American,18,21771769,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,1-4 years,2.5,Female,F,White,40,100482059,0
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,1-4 years,2.5,Male,M,American Indian or Alaska Native,1,2307549,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,1-4 years,2.5,Male,M,Asian or Pacific Islander,8,7402086,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,1-4 years,2.5,Male,M,Black or African American,13,22515847,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,1-4 years,2.5,Male,M,White,55,105386729,0.1
+,Diseases of the genitourinary system,N00-N98,1-4 years,2.5,Female,F,American Indian or Alaska Native,3,2240838,Unreliable
+,Diseases of the genitourinary system,N00-N98,1-4 years,2.5,Female,F,Asian or Pacific Islander,5,7185065,Unreliable
+,Diseases of the genitourinary system,N00-N98,1-4 years,2.5,Female,F,Black or African American,33,21771769,0.2
+,Diseases of the genitourinary system,N00-N98,1-4 years,2.5,Female,F,White,132,100482059,0.1
+,Diseases of the genitourinary system,N00-N98,1-4 years,2.5,Male,M,American Indian or Alaska Native,2,2307549,Unreliable
+,Diseases of the genitourinary system,N00-N98,1-4 years,2.5,Male,M,Asian or Pacific Islander,7,7402086,Unreliable
+,Diseases of the genitourinary system,N00-N98,1-4 years,2.5,Male,M,Black or African American,51,22515847,0.2
+,Diseases of the genitourinary system,N00-N98,1-4 years,2.5,Male,M,White,121,105386729,0.1
+,Certain conditions originating in the perinatal period,P00-P96,1-4 years,2.5,Female,F,American Indian or Alaska Native,4,2240838,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,1-4 years,2.5,Female,F,Asian or Pacific Islander,10,7185065,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,1-4 years,2.5,Female,F,Black or African American,147,21771769,0.7
+,Certain conditions originating in the perinatal period,P00-P96,1-4 years,2.5,Female,F,White,246,100482059,0.2
+,Certain conditions originating in the perinatal period,P00-P96,1-4 years,2.5,Male,M,American Indian or Alaska Native,7,2307549,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,1-4 years,2.5,Male,M,Asian or Pacific Islander,25,7402086,0.3
+,Certain conditions originating in the perinatal period,P00-P96,1-4 years,2.5,Male,M,Black or African American,217,22515847,1
+,Certain conditions originating in the perinatal period,P00-P96,1-4 years,2.5,Male,M,White,355,105386729,0.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1-4 years,2.5,Female,F,American Indian or Alaska Native,76,2240838,3.4
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1-4 years,2.5,Female,F,Asian or Pacific Islander,174,7185065,2.4
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1-4 years,2.5,Female,F,Black or African American,931,21771769,4.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1-4 years,2.5,Female,F,White,2966,100482059,3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1-4 years,2.5,Male,M,American Indian or Alaska Native,63,2307549,2.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1-4 years,2.5,Male,M,Asian or Pacific Islander,176,7402086,2.4
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1-4 years,2.5,Male,M,Black or African American,1007,22515847,4.5
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1-4 years,2.5,Male,M,White,3227,105386729,3.1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,1-4 years,2.5,Female,F,American Indian or Alaska Native,50,2240838,2.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,1-4 years,2.5,Female,F,Asian or Pacific Islander,57,7185065,0.8
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,1-4 years,2.5,Female,F,Black or African American,490,21771769,2.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,1-4 years,2.5,Female,F,White,1248,100482059,1.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,1-4 years,2.5,Male,M,American Indian or Alaska Native,58,2307549,2.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,1-4 years,2.5,Male,M,Asian or Pacific Islander,72,7402086,1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,1-4 years,2.5,Male,M,Black or African American,620,22515847,2.8
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,1-4 years,2.5,Male,M,White,1644,105386729,1.6
+,Codes for special purposes,U00-U99,1-4 years,2.5,Female,F,Asian or Pacific Islander,1,7185065,Unreliable
+,Codes for special purposes,U00-U99,1-4 years,2.5,Female,F,White,1,100482059,Unreliable
+,Codes for special purposes,U00-U99,1-4 years,2.5,Male,M,White,1,105386729,Unreliable
+,External causes of morbidity and mortality,V01-Y89,1-4 years,2.5,Female,F,American Indian or Alaska Native,317,2240838,14.1
+,External causes of morbidity and mortality,V01-Y89,1-4 years,2.5,Female,F,Asian or Pacific Islander,353,7185065,4.9
+,External causes of morbidity and mortality,V01-Y89,1-4 years,2.5,Female,F,Black or African American,3540,21771769,16.3
+,External causes of morbidity and mortality,V01-Y89,1-4 years,2.5,Female,F,White,9411,100482059,9.4
+,External causes of morbidity and mortality,V01-Y89,1-4 years,2.5,Male,M,American Indian or Alaska Native,491,2307549,21.3
+,External causes of morbidity and mortality,V01-Y89,1-4 years,2.5,Male,M,Asian or Pacific Islander,464,7402086,6.3
+,External causes of morbidity and mortality,V01-Y89,1-4 years,2.5,Male,M,Black or African American,5026,22515847,22.3
+,External causes of morbidity and mortality,V01-Y89,1-4 years,2.5,Male,M,White,14302,105386729,13.6
+,Certain infectious and parasitic diseases,A00-B99,5-14 years,9.5,Female,F,American Indian or Alaska Native,25,5728099,0.4
+,Certain infectious and parasitic diseases,A00-B99,5-14 years,9.5,Female,F,Asian or Pacific Islander,59,17407299,0.3
+,Certain infectious and parasitic diseases,A00-B99,5-14 years,9.5,Female,F,Black or African American,339,56610668,0.6
+,Certain infectious and parasitic diseases,A00-B99,5-14 years,9.5,Female,F,White,900,260280381,0.3
+,Certain infectious and parasitic diseases,A00-B99,5-14 years,9.5,Male,M,American Indian or Alaska Native,29,5877592,0.5
+,Certain infectious and parasitic diseases,A00-B99,5-14 years,9.5,Male,M,Asian or Pacific Islander,68,17858115,0.4
+,Certain infectious and parasitic diseases,A00-B99,5-14 years,9.5,Male,M,Black or African American,364,58506246,0.6
+,Certain infectious and parasitic diseases,A00-B99,5-14 years,9.5,Male,M,White,1067,273762711,0.4
+,Neoplasms,C00-D48,5-14 years,9.5,Female,F,American Indian or Alaska Native,61,5728099,1.1
+,Neoplasms,C00-D48,5-14 years,9.5,Female,F,Asian or Pacific Islander,328,17407299,1.9
+,Neoplasms,C00-D48,5-14 years,9.5,Female,F,Black or African American,1341,56610668,2.4
+,Neoplasms,C00-D48,5-14 years,9.5,Female,F,White,6274,260280381,2.4
+,Neoplasms,C00-D48,5-14 years,9.5,Male,M,American Indian or Alaska Native,90,5877592,1.5
+,Neoplasms,C00-D48,5-14 years,9.5,Male,M,Asian or Pacific Islander,432,17858115,2.4
+,Neoplasms,C00-D48,5-14 years,9.5,Male,M,Black or African American,1559,58506246,2.7
+,Neoplasms,C00-D48,5-14 years,9.5,Male,M,White,7484,273762711,2.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,5-14 years,9.5,Female,F,American Indian or Alaska Native,10,5728099,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,5-14 years,9.5,Female,F,Asian or Pacific Islander,30,17407299,0.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,5-14 years,9.5,Female,F,Black or African American,217,56610668,0.4
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,5-14 years,9.5,Female,F,White,349,260280381,0.1
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,5-14 years,9.5,Male,M,American Indian or Alaska Native,8,5877592,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,5-14 years,9.5,Male,M,Asian or Pacific Islander,40,17858115,0.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,5-14 years,9.5,Male,M,Black or African American,248,58506246,0.4
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,5-14 years,9.5,Male,M,White,447,273762711,0.2
+,"Endocrine, nutritional and metabolic diseases",E00-E88,5-14 years,9.5,Female,F,American Indian or Alaska Native,22,5728099,0.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,5-14 years,9.5,Female,F,Asian or Pacific Islander,47,17407299,0.3
+,"Endocrine, nutritional and metabolic diseases",E00-E88,5-14 years,9.5,Female,F,Black or African American,253,56610668,0.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,5-14 years,9.5,Female,F,White,1240,260280381,0.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,5-14 years,9.5,Male,M,American Indian or Alaska Native,14,5877592,Unreliable
+,"Endocrine, nutritional and metabolic diseases",E00-E88,5-14 years,9.5,Male,M,Asian or Pacific Islander,60,17858115,0.3
+,"Endocrine, nutritional and metabolic diseases",E00-E88,5-14 years,9.5,Male,M,Black or African American,286,58506246,0.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,5-14 years,9.5,Male,M,White,1560,273762711,0.6
+,Mental and behavioural disorders,F01-F99,5-14 years,9.5,Female,F,American Indian or Alaska Native,6,5728099,Unreliable
+,Mental and behavioural disorders,F01-F99,5-14 years,9.5,Female,F,Asian or Pacific Islander,15,17407299,Unreliable
+,Mental and behavioural disorders,F01-F99,5-14 years,9.5,Female,F,Black or African American,36,56610668,0.1
+,Mental and behavioural disorders,F01-F99,5-14 years,9.5,Female,F,White,180,260280381,0.1
+,Mental and behavioural disorders,F01-F99,5-14 years,9.5,Male,M,American Indian or Alaska Native,3,5877592,Unreliable
+,Mental and behavioural disorders,F01-F99,5-14 years,9.5,Male,M,Asian or Pacific Islander,5,17858115,Unreliable
+,Mental and behavioural disorders,F01-F99,5-14 years,9.5,Male,M,Black or African American,42,58506246,0.1
+,Mental and behavioural disorders,F01-F99,5-14 years,9.5,Male,M,White,132,273762711,0
+,Diseases of the nervous system,G00-G98,5-14 years,9.5,Female,F,American Indian or Alaska Native,42,5728099,0.7
+,Diseases of the nervous system,G00-G98,5-14 years,9.5,Female,F,Asian or Pacific Islander,125,17407299,0.7
+,Diseases of the nervous system,G00-G98,5-14 years,9.5,Female,F,Black or African American,887,56610668,1.6
+,Diseases of the nervous system,G00-G98,5-14 years,9.5,Female,F,White,2422,260280381,0.9
+,Diseases of the nervous system,G00-G98,5-14 years,9.5,Male,M,American Indian or Alaska Native,56,5877592,1
+,Diseases of the nervous system,G00-G98,5-14 years,9.5,Male,M,Asian or Pacific Islander,183,17858115,1
+,Diseases of the nervous system,G00-G98,5-14 years,9.5,Male,M,Black or African American,1056,58506246,1.8
+,Diseases of the nervous system,G00-G98,5-14 years,9.5,Male,M,White,3344,273762711,1.2
+,Diseases of the eye and adnexa,H00-H57,5-14 years,9.5,Female,F,Asian or Pacific Islander,1,17407299,Unreliable
+,Diseases of the eye and adnexa,H00-H57,5-14 years,9.5,Female,F,White,3,260280381,Unreliable
+,Diseases of the eye and adnexa,H00-H57,5-14 years,9.5,Male,M,White,6,273762711,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,5-14 years,9.5,Female,F,Asian or Pacific Islander,1,17407299,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,5-14 years,9.5,Female,F,Black or African American,1,56610668,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,5-14 years,9.5,Female,F,White,13,260280381,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,5-14 years,9.5,Male,M,Black or African American,1,58506246,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,5-14 years,9.5,Male,M,White,6,273762711,Unreliable
+,Diseases of the circulatory system,I00-I99,5-14 years,9.5,Female,F,American Indian or Alaska Native,36,5728099,0.6
+,Diseases of the circulatory system,I00-I99,5-14 years,9.5,Female,F,Asian or Pacific Islander,120,17407299,0.7
+,Diseases of the circulatory system,I00-I99,5-14 years,9.5,Female,F,Black or African American,686,56610668,1.2
+,Diseases of the circulatory system,I00-I99,5-14 years,9.5,Female,F,White,1739,260280381,0.7
+,Diseases of the circulatory system,I00-I99,5-14 years,9.5,Male,M,American Indian or Alaska Native,33,5877592,0.6
+,Diseases of the circulatory system,I00-I99,5-14 years,9.5,Male,M,Asian or Pacific Islander,138,17858115,0.8
+,Diseases of the circulatory system,I00-I99,5-14 years,9.5,Male,M,Black or African American,793,58506246,1.4
+,Diseases of the circulatory system,I00-I99,5-14 years,9.5,Male,M,White,2073,273762711,0.8
+,Diseases of the respiratory system,J00-J98,5-14 years,9.5,Female,F,American Indian or Alaska Native,44,5728099,0.8
+,Diseases of the respiratory system,J00-J98,5-14 years,9.5,Female,F,Asian or Pacific Islander,84,17407299,0.5
+,Diseases of the respiratory system,J00-J98,5-14 years,9.5,Female,F,Black or African American,737,56610668,1.3
+,Diseases of the respiratory system,J00-J98,5-14 years,9.5,Female,F,White,1504,260280381,0.6
+,Diseases of the respiratory system,J00-J98,5-14 years,9.5,Male,M,American Indian or Alaska Native,37,5877592,0.6
+,Diseases of the respiratory system,J00-J98,5-14 years,9.5,Male,M,Asian or Pacific Islander,97,17858115,0.5
+,Diseases of the respiratory system,J00-J98,5-14 years,9.5,Male,M,Black or African American,1151,58506246,2
+,Diseases of the respiratory system,J00-J98,5-14 years,9.5,Male,M,White,1752,273762711,0.6
+,Diseases of the digestive system,K00-K92,5-14 years,9.5,Female,F,American Indian or Alaska Native,13,5728099,Unreliable
+,Diseases of the digestive system,K00-K92,5-14 years,9.5,Female,F,Asian or Pacific Islander,39,17407299,0.2
+,Diseases of the digestive system,K00-K92,5-14 years,9.5,Female,F,Black or African American,194,56610668,0.3
+,Diseases of the digestive system,K00-K92,5-14 years,9.5,Female,F,White,591,260280381,0.2
+,Diseases of the digestive system,K00-K92,5-14 years,9.5,Male,M,American Indian or Alaska Native,20,5877592,0.3
+,Diseases of the digestive system,K00-K92,5-14 years,9.5,Male,M,Asian or Pacific Islander,40,17858115,0.2
+,Diseases of the digestive system,K00-K92,5-14 years,9.5,Male,M,Black or African American,225,58506246,0.4
+,Diseases of the digestive system,K00-K92,5-14 years,9.5,Male,M,White,643,273762711,0.2
+,Diseases of the skin and subcutaneous tissue,L00-L98,5-14 years,9.5,Female,F,American Indian or Alaska Native,1,5728099,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,5-14 years,9.5,Female,F,Asian or Pacific Islander,4,17407299,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,5-14 years,9.5,Female,F,Black or African American,9,56610668,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,5-14 years,9.5,Female,F,White,29,260280381,0
+,Diseases of the skin and subcutaneous tissue,L00-L98,5-14 years,9.5,Male,M,Asian or Pacific Islander,3,17858115,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,5-14 years,9.5,Male,M,Black or African American,10,58506246,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,5-14 years,9.5,Male,M,White,25,273762711,0
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,5-14 years,9.5,Female,F,American Indian or Alaska Native,5,5728099,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,5-14 years,9.5,Female,F,Asian or Pacific Islander,18,17407299,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,5-14 years,9.5,Female,F,Black or African American,105,56610668,0.2
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,5-14 years,9.5,Female,F,White,224,260280381,0.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,5-14 years,9.5,Male,M,American Indian or Alaska Native,3,5877592,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,5-14 years,9.5,Male,M,Asian or Pacific Islander,5,17858115,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,5-14 years,9.5,Male,M,Black or African American,50,58506246,0.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,5-14 years,9.5,Male,M,White,154,273762711,0.1
+,Diseases of the genitourinary system,N00-N98,5-14 years,9.5,Female,F,American Indian or Alaska Native,3,5728099,Unreliable
+,Diseases of the genitourinary system,N00-N98,5-14 years,9.5,Female,F,Asian or Pacific Islander,4,17407299,Unreliable
+,Diseases of the genitourinary system,N00-N98,5-14 years,9.5,Female,F,Black or African American,65,56610668,0.1
+,Diseases of the genitourinary system,N00-N98,5-14 years,9.5,Female,F,White,163,260280381,0.1
+,Diseases of the genitourinary system,N00-N98,5-14 years,9.5,Male,M,American Indian or Alaska Native,7,5877592,Unreliable
+,Diseases of the genitourinary system,N00-N98,5-14 years,9.5,Male,M,Asian or Pacific Islander,8,17858115,Unreliable
+,Diseases of the genitourinary system,N00-N98,5-14 years,9.5,Male,M,Black or African American,52,58506246,0.1
+,Diseases of the genitourinary system,N00-N98,5-14 years,9.5,Male,M,White,167,273762711,0.1
+,"Pregnancy, childbirth and the puerperium",O00-O99,5-14 years,9.5,Female,F,Asian or Pacific Islander,4,17407299,Unreliable
+,"Pregnancy, childbirth and the puerperium",O00-O99,5-14 years,9.5,Female,F,Black or African American,7,56610668,Unreliable
+,"Pregnancy, childbirth and the puerperium",O00-O99,5-14 years,9.5,Female,F,White,10,260280381,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,5-14 years,9.5,Female,F,American Indian or Alaska Native,6,5728099,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,5-14 years,9.5,Female,F,Asian or Pacific Islander,15,17407299,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,5-14 years,9.5,Female,F,Black or African American,54,56610668,0.1
+,Certain conditions originating in the perinatal period,P00-P96,5-14 years,9.5,Female,F,White,165,260280381,0.1
+,Certain conditions originating in the perinatal period,P00-P96,5-14 years,9.5,Male,M,American Indian or Alaska Native,4,5877592,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,5-14 years,9.5,Male,M,Asian or Pacific Islander,11,17858115,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,5-14 years,9.5,Male,M,Black or African American,58,58506246,0.1
+,Certain conditions originating in the perinatal period,P00-P96,5-14 years,9.5,Male,M,White,199,273762711,0.1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,5-14 years,9.5,Female,F,American Indian or Alaska Native,50,5728099,0.9
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,5-14 years,9.5,Female,F,Asian or Pacific Islander,122,17407299,0.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,5-14 years,9.5,Female,F,Black or African American,629,56610668,1.1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,5-14 years,9.5,Female,F,White,2134,260280381,0.8
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,5-14 years,9.5,Male,M,American Indian or Alaska Native,49,5877592,0.8
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,5-14 years,9.5,Male,M,Asian or Pacific Islander,113,17858115,0.6
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,5-14 years,9.5,Male,M,Black or African American,718,58506246,1.2
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,5-14 years,9.5,Male,M,White,2397,273762711,0.9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5-14 years,9.5,Female,F,American Indian or Alaska Native,21,5728099,0.4
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5-14 years,9.5,Female,F,Asian or Pacific Islander,48,17407299,0.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5-14 years,9.5,Female,F,Black or African American,276,56610668,0.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5-14 years,9.5,Female,F,White,641,260280381,0.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5-14 years,9.5,Male,M,American Indian or Alaska Native,15,5877592,Unreliable
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5-14 years,9.5,Male,M,Asian or Pacific Islander,36,17858115,0.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5-14 years,9.5,Male,M,Black or African American,329,58506246,0.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5-14 years,9.5,Male,M,White,847,273762711,0.3
+,Codes for special purposes,U00-U99,5-14 years,9.5,Female,F,Black or African American,1,56610668,Unreliable
+,Codes for special purposes,U00-U99,5-14 years,9.5,Female,F,White,1,260280381,Unreliable
+,Codes for special purposes,U00-U99,5-14 years,9.5,Male,M,Black or African American,2,58506246,Unreliable
+,Codes for special purposes,U00-U99,5-14 years,9.5,Male,M,White,1,273762711,Unreliable
+,External causes of morbidity and mortality,V01-Y89,5-14 years,9.5,Female,F,American Indian or Alaska Native,461,5728099,8
+,External causes of morbidity and mortality,V01-Y89,5-14 years,9.5,Female,F,Asian or Pacific Islander,524,17407299,3
+,External causes of morbidity and mortality,V01-Y89,5-14 years,9.5,Female,F,Black or African American,3852,56610668,6.8
+,External causes of morbidity and mortality,V01-Y89,5-14 years,9.5,Female,F,White,12831,260280381,4.9
+,External causes of morbidity and mortality,V01-Y89,5-14 years,9.5,Male,M,American Indian or Alaska Native,663,5877592,11.3
+,External causes of morbidity and mortality,V01-Y89,5-14 years,9.5,Male,M,Asian or Pacific Islander,810,17858115,4.5
+,External causes of morbidity and mortality,V01-Y89,5-14 years,9.5,Male,M,Black or African American,7196,58506246,12.3
+,External causes of morbidity and mortality,V01-Y89,5-14 years,9.5,Male,M,White,22102,273762711,8.1
+,Certain infectious and parasitic diseases,A00-B99,15-24 years,19.5,Female,F,American Indian or Alaska Native,38,5574668,0.7
+,Certain infectious and parasitic diseases,A00-B99,15-24 years,19.5,Female,F,Asian or Pacific Islander,91,19168414,0.5
+,Certain infectious and parasitic diseases,A00-B99,15-24 years,19.5,Female,F,Black or African American,1470,57264439,2.6
+,Certain infectious and parasitic diseases,A00-B99,15-24 years,19.5,Female,F,White,1657,269333720,0.6
+,Certain infectious and parasitic diseases,A00-B99,15-24 years,19.5,Male,M,American Indian or Alaska Native,39,5982009,0.7
+,Certain infectious and parasitic diseases,A00-B99,15-24 years,19.5,Male,M,Asian or Pacific Islander,127,19736530,0.6
+,Certain infectious and parasitic diseases,A00-B99,15-24 years,19.5,Male,M,Black or African American,1659,57891694,2.9
+,Certain infectious and parasitic diseases,A00-B99,15-24 years,19.5,Male,M,White,2250,285867932,0.8
+,Neoplasms,C00-D48,15-24 years,19.5,Female,F,American Indian or Alaska Native,113,5574668,2
+,Neoplasms,C00-D48,15-24 years,19.5,Female,F,Asian or Pacific Islander,504,19168414,2.6
+,Neoplasms,C00-D48,15-24 years,19.5,Female,F,Black or African American,2098,57264439,3.7
+,Neoplasms,C00-D48,15-24 years,19.5,Female,F,White,9098,269333720,3.4
+,Neoplasms,C00-D48,15-24 years,19.5,Male,M,American Indian or Alaska Native,180,5982009,3
+,Neoplasms,C00-D48,15-24 years,19.5,Male,M,Asian or Pacific Islander,803,19736530,4.1
+,Neoplasms,C00-D48,15-24 years,19.5,Male,M,Black or African American,2806,57891694,4.8
+,Neoplasms,C00-D48,15-24 years,19.5,Male,M,White,13807,285867932,4.8
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,15-24 years,19.5,Female,F,American Indian or Alaska Native,18,5574668,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,15-24 years,19.5,Female,F,Asian or Pacific Islander,37,19168414,0.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,15-24 years,19.5,Female,F,Black or African American,688,57264439,1.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,15-24 years,19.5,Female,F,White,547,269333720,0.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,15-24 years,19.5,Male,M,American Indian or Alaska Native,11,5982009,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,15-24 years,19.5,Male,M,Asian or Pacific Islander,34,19736530,0.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,15-24 years,19.5,Male,M,Black or African American,862,57891694,1.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,15-24 years,19.5,Male,M,White,698,285867932,0.2
+,"Endocrine, nutritional and metabolic diseases",E00-E88,15-24 years,19.5,Female,F,American Indian or Alaska Native,45,5574668,0.8
+,"Endocrine, nutritional and metabolic diseases",E00-E88,15-24 years,19.5,Female,F,Asian or Pacific Islander,54,19168414,0.3
+,"Endocrine, nutritional and metabolic diseases",E00-E88,15-24 years,19.5,Female,F,Black or African American,895,57264439,1.6
+,"Endocrine, nutritional and metabolic diseases",E00-E88,15-24 years,19.5,Female,F,White,3196,269333720,1.2
+,"Endocrine, nutritional and metabolic diseases",E00-E88,15-24 years,19.5,Male,M,American Indian or Alaska Native,74,5982009,1.2
+,"Endocrine, nutritional and metabolic diseases",E00-E88,15-24 years,19.5,Male,M,Asian or Pacific Islander,98,19736530,0.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,15-24 years,19.5,Male,M,Black or African American,1020,57891694,1.8
+,"Endocrine, nutritional and metabolic diseases",E00-E88,15-24 years,19.5,Male,M,White,3768,285867932,1.3
+,Mental and behavioural disorders,F01-F99,15-24 years,19.5,Female,F,American Indian or Alaska Native,37,5574668,0.7
+,Mental and behavioural disorders,F01-F99,15-24 years,19.5,Female,F,Asian or Pacific Islander,17,19168414,Unreliable
+,Mental and behavioural disorders,F01-F99,15-24 years,19.5,Female,F,Black or African American,141,57264439,0.2
+,Mental and behavioural disorders,F01-F99,15-24 years,19.5,Female,F,White,1089,269333720,0.4
+,Mental and behavioural disorders,F01-F99,15-24 years,19.5,Male,M,American Indian or Alaska Native,77,5982009,1.3
+,Mental and behavioural disorders,F01-F99,15-24 years,19.5,Male,M,Asian or Pacific Islander,41,19736530,0.2
+,Mental and behavioural disorders,F01-F99,15-24 years,19.5,Male,M,Black or African American,293,57891694,0.5
+,Mental and behavioural disorders,F01-F99,15-24 years,19.5,Male,M,White,2320,285867932,0.8
+,Diseases of the nervous system,G00-G98,15-24 years,19.5,Female,F,American Indian or Alaska Native,69,5574668,1.2
+,Diseases of the nervous system,G00-G98,15-24 years,19.5,Female,F,Asian or Pacific Islander,143,19168414,0.7
+,Diseases of the nervous system,G00-G98,15-24 years,19.5,Female,F,Black or African American,1305,57264439,2.3
+,Diseases of the nervous system,G00-G98,15-24 years,19.5,Female,F,White,3674,269333720,1.4
+,Diseases of the nervous system,G00-G98,15-24 years,19.5,Male,M,American Indian or Alaska Native,105,5982009,1.8
+,Diseases of the nervous system,G00-G98,15-24 years,19.5,Male,M,Asian or Pacific Islander,264,19736530,1.3
+,Diseases of the nervous system,G00-G98,15-24 years,19.5,Male,M,Black or African American,1956,57891694,3.4
+,Diseases of the nervous system,G00-G98,15-24 years,19.5,Male,M,White,7650,285867932,2.7
+,Diseases of the eye and adnexa,H00-H57,15-24 years,19.5,Female,F,Asian or Pacific Islander,1,19168414,Unreliable
+,Diseases of the eye and adnexa,H00-H57,15-24 years,19.5,Female,F,Black or African American,4,57264439,Unreliable
+,Diseases of the eye and adnexa,H00-H57,15-24 years,19.5,Female,F,White,9,269333720,Unreliable
+,Diseases of the eye and adnexa,H00-H57,15-24 years,19.5,Male,M,Asian or Pacific Islander,2,19736530,Unreliable
+,Diseases of the eye and adnexa,H00-H57,15-24 years,19.5,Male,M,Black or African American,3,57891694,Unreliable
+,Diseases of the eye and adnexa,H00-H57,15-24 years,19.5,Male,M,White,9,285867932,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,15-24 years,19.5,Female,F,Black or African American,4,57264439,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,15-24 years,19.5,Female,F,White,10,269333720,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,15-24 years,19.5,Male,M,Asian or Pacific Islander,1,19736530,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,15-24 years,19.5,Male,M,Black or African American,3,57891694,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,15-24 years,19.5,Male,M,White,8,285867932,Unreliable
+,Diseases of the circulatory system,I00-I99,15-24 years,19.5,Female,F,American Indian or Alaska Native,113,5574668,2
+,Diseases of the circulatory system,I00-I99,15-24 years,19.5,Female,F,Asian or Pacific Islander,227,19168414,1.2
+,Diseases of the circulatory system,I00-I99,15-24 years,19.5,Female,F,Black or African American,2575,57264439,4.5
+,Diseases of the circulatory system,I00-I99,15-24 years,19.5,Female,F,White,5299,269333720,2
+,Diseases of the circulatory system,I00-I99,15-24 years,19.5,Male,M,American Indian or Alaska Native,169,5982009,2.8
+,Diseases of the circulatory system,I00-I99,15-24 years,19.5,Male,M,Asian or Pacific Islander,491,19736530,2.5
+,Diseases of the circulatory system,I00-I99,15-24 years,19.5,Male,M,Black or African American,4303,57891694,7.4
+,Diseases of the circulatory system,I00-I99,15-24 years,19.5,Male,M,White,9632,285867932,3.4
+,Diseases of the respiratory system,J00-J98,15-24 years,19.5,Female,F,American Indian or Alaska Native,63,5574668,1.1
+,Diseases of the respiratory system,J00-J98,15-24 years,19.5,Female,F,Asian or Pacific Islander,104,19168414,0.5
+,Diseases of the respiratory system,J00-J98,15-24 years,19.5,Female,F,Black or African American,1107,57264439,1.9
+,Diseases of the respiratory system,J00-J98,15-24 years,19.5,Female,F,White,2501,269333720,0.9
+,Diseases of the respiratory system,J00-J98,15-24 years,19.5,Male,M,American Indian or Alaska Native,72,5982009,1.2
+,Diseases of the respiratory system,J00-J98,15-24 years,19.5,Male,M,Asian or Pacific Islander,139,19736530,0.7
+,Diseases of the respiratory system,J00-J98,15-24 years,19.5,Male,M,Black or African American,1603,57891694,2.8
+,Diseases of the respiratory system,J00-J98,15-24 years,19.5,Male,M,White,3659,285867932,1.3
+,Diseases of the digestive system,K00-K92,15-24 years,19.5,Female,F,American Indian or Alaska Native,48,5574668,0.9
+,Diseases of the digestive system,K00-K92,15-24 years,19.5,Female,F,Asian or Pacific Islander,43,19168414,0.2
+,Diseases of the digestive system,K00-K92,15-24 years,19.5,Female,F,Black or African American,524,57264439,0.9
+,Diseases of the digestive system,K00-K92,15-24 years,19.5,Female,F,White,1289,269333720,0.5
+,Diseases of the digestive system,K00-K92,15-24 years,19.5,Male,M,American Indian or Alaska Native,86,5982009,1.4
+,Diseases of the digestive system,K00-K92,15-24 years,19.5,Male,M,Asian or Pacific Islander,60,19736530,0.3
+,Diseases of the digestive system,K00-K92,15-24 years,19.5,Male,M,Black or African American,555,57891694,1
+,Diseases of the digestive system,K00-K92,15-24 years,19.5,Male,M,White,1789,285867932,0.6
+,Diseases of the skin and subcutaneous tissue,L00-L98,15-24 years,19.5,Female,F,American Indian or Alaska Native,2,5574668,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,15-24 years,19.5,Female,F,Asian or Pacific Islander,13,19168414,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,15-24 years,19.5,Female,F,Black or African American,93,57264439,0.2
+,Diseases of the skin and subcutaneous tissue,L00-L98,15-24 years,19.5,Female,F,White,84,269333720,0
+,Diseases of the skin and subcutaneous tissue,L00-L98,15-24 years,19.5,Male,M,American Indian or Alaska Native,2,5982009,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,15-24 years,19.5,Male,M,Asian or Pacific Islander,2,19736530,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,15-24 years,19.5,Male,M,Black or African American,43,57891694,0.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,15-24 years,19.5,Male,M,White,61,285867932,0
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,15-24 years,19.5,Female,F,American Indian or Alaska Native,23,5574668,0.4
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,15-24 years,19.5,Female,F,Asian or Pacific Islander,114,19168414,0.6
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,15-24 years,19.5,Female,F,Black or African American,795,57264439,1.4
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,15-24 years,19.5,Female,F,White,759,269333720,0.3
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,15-24 years,19.5,Male,M,American Indian or Alaska Native,10,5982009,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,15-24 years,19.5,Male,M,Asian or Pacific Islander,29,19736530,0.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,15-24 years,19.5,Male,M,Black or African American,273,57891694,0.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,15-24 years,19.5,Male,M,White,483,285867932,0.2
+,Diseases of the genitourinary system,N00-N98,15-24 years,19.5,Female,F,American Indian or Alaska Native,15,5574668,Unreliable
+,Diseases of the genitourinary system,N00-N98,15-24 years,19.5,Female,F,Asian or Pacific Islander,20,19168414,0.1
+,Diseases of the genitourinary system,N00-N98,15-24 years,19.5,Female,F,Black or African American,336,57264439,0.6
+,Diseases of the genitourinary system,N00-N98,15-24 years,19.5,Female,F,White,584,269333720,0.2
+,Diseases of the genitourinary system,N00-N98,15-24 years,19.5,Male,M,American Indian or Alaska Native,18,5982009,Unreliable
+,Diseases of the genitourinary system,N00-N98,15-24 years,19.5,Male,M,Asian or Pacific Islander,20,19736530,0.1
+,Diseases of the genitourinary system,N00-N98,15-24 years,19.5,Male,M,Black or African American,250,57891694,0.4
+,Diseases of the genitourinary system,N00-N98,15-24 years,19.5,Male,M,White,584,285867932,0.2
+,"Pregnancy, childbirth and the puerperium",O00-O99,15-24 years,19.5,Female,F,American Indian or Alaska Native,41,5574668,0.7
+,"Pregnancy, childbirth and the puerperium",O00-O99,15-24 years,19.5,Female,F,Asian or Pacific Islander,45,19168414,0.2
+,"Pregnancy, childbirth and the puerperium",O00-O99,15-24 years,19.5,Female,F,Black or African American,1006,57264439,1.8
+,"Pregnancy, childbirth and the puerperium",O00-O99,15-24 years,19.5,Female,F,White,1507,269333720,0.6
+,Certain conditions originating in the perinatal period,P00-P96,15-24 years,19.5,Female,F,American Indian or Alaska Native,1,5574668,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,15-24 years,19.5,Female,F,Asian or Pacific Islander,2,19168414,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,15-24 years,19.5,Female,F,Black or African American,21,57264439,0
+,Certain conditions originating in the perinatal period,P00-P96,15-24 years,19.5,Female,F,White,83,269333720,0
+,Certain conditions originating in the perinatal period,P00-P96,15-24 years,19.5,Male,M,American Indian or Alaska Native,2,5982009,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,15-24 years,19.5,Male,M,Asian or Pacific Islander,2,19736530,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,15-24 years,19.5,Male,M,Black or African American,26,57891694,0
+,Certain conditions originating in the perinatal period,P00-P96,15-24 years,19.5,Male,M,White,134,285867932,0
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,15-24 years,19.5,Female,F,American Indian or Alaska Native,37,5574668,0.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,15-24 years,19.5,Female,F,Asian or Pacific Islander,111,19168414,0.6
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,15-24 years,19.5,Female,F,Black or African American,579,57264439,1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,15-24 years,19.5,Female,F,White,2265,269333720,0.8
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,15-24 years,19.5,Male,M,American Indian or Alaska Native,62,5982009,1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,15-24 years,19.5,Male,M,Asian or Pacific Islander,144,19736530,0.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,15-24 years,19.5,Male,M,Black or African American,951,57891694,1.6
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,15-24 years,19.5,Male,M,White,3339,285867932,1.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,15-24 years,19.5,Female,F,American Indian or Alaska Native,58,5574668,1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,15-24 years,19.5,Female,F,Asian or Pacific Islander,100,19168414,0.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,15-24 years,19.5,Female,F,Black or African American,853,57264439,1.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,15-24 years,19.5,Female,F,White,2619,269333720,1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,15-24 years,19.5,Male,M,American Indian or Alaska Native,113,5982009,1.9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,15-24 years,19.5,Male,M,Asian or Pacific Islander,155,19736530,0.8
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,15-24 years,19.5,Male,M,Black or African American,1504,57891694,2.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,15-24 years,19.5,Male,M,White,5937,285867932,2.1
+,Codes for special purposes,U00-U99,15-24 years,19.5,Female,F,Asian or Pacific Islander,5,19168414,Unreliable
+,Codes for special purposes,U00-U99,15-24 years,19.5,Female,F,Black or African American,5,57264439,Unreliable
+,Codes for special purposes,U00-U99,15-24 years,19.5,Female,F,White,29,269333720,0
+,Codes for special purposes,U00-U99,15-24 years,19.5,Male,M,Asian or Pacific Islander,8,19736530,Unreliable
+,Codes for special purposes,U00-U99,15-24 years,19.5,Male,M,Black or African American,5,57891694,Unreliable
+,Codes for special purposes,U00-U99,15-24 years,19.5,Male,M,White,65,285867932,0
+,External causes of morbidity and mortality,V01-Y89,15-24 years,19.5,Female,F,American Indian or Alaska Native,2206,5574668,39.6
+,External causes of morbidity and mortality,V01-Y89,15-24 years,19.5,Female,F,Asian or Pacific Islander,2332,19168414,12.2
+,External causes of morbidity and mortality,V01-Y89,15-24 years,19.5,Female,F,Black or African American,13430,57264439,23.5
+,External causes of morbidity and mortality,V01-Y89,15-24 years,19.5,Female,F,White,69168,269333720,25.7
+,External causes of morbidity and mortality,V01-Y89,15-24 years,19.5,Male,M,American Indian or Alaska Native,6209,5982009,103.8
+,External causes of morbidity and mortality,V01-Y89,15-24 years,19.5,Male,M,Asian or Pacific Islander,7039,19736530,35.7
+,External causes of morbidity and mortality,V01-Y89,15-24 years,19.5,Male,M,Black or African American,73136,57891694,126.3
+,External causes of morbidity and mortality,V01-Y89,15-24 years,19.5,Male,M,White,231720,285867932,81.1
+,Certain infectious and parasitic diseases,A00-B99,25-34 years,29.5,Female,F,American Indian or Alaska Native,128,4743621,2.7
+,Certain infectious and parasitic diseases,A00-B99,25-34 years,29.5,Female,F,Asian or Pacific Islander,170,24079818,0.7
+,Certain infectious and parasitic diseases,A00-B99,25-34 years,29.5,Female,F,Black or African American,6783,51218894,13.2
+,Certain infectious and parasitic diseases,A00-B99,25-34 years,29.5,Female,F,White,4671,263766564,1.8
+,Certain infectious and parasitic diseases,A00-B99,25-34 years,29.5,Male,M,American Indian or Alaska Native,212,5017032,4.2
+,Certain infectious and parasitic diseases,A00-B99,25-34 years,29.5,Male,M,Asian or Pacific Islander,395,22353743,1.8
+,Certain infectious and parasitic diseases,A00-B99,25-34 years,29.5,Male,M,Black or African American,9128,46678112,19.6
+,Certain infectious and parasitic diseases,A00-B99,25-34 years,29.5,Male,M,White,9607,274504029,3.5
+,Neoplasms,C00-D48,25-34 years,29.5,Female,F,American Indian or Alaska Native,269,4743621,5.7
+,Neoplasms,C00-D48,25-34 years,29.5,Female,F,Asian or Pacific Islander,1606,24079818,6.7
+,Neoplasms,C00-D48,25-34 years,29.5,Female,F,Black or African American,6526,51218894,12.7
+,Neoplasms,C00-D48,25-34 years,29.5,Female,F,White,24921,263766564,9.4
+,Neoplasms,C00-D48,25-34 years,29.5,Male,M,American Indian or Alaska Native,295,5017032,5.9
+,Neoplasms,C00-D48,25-34 years,29.5,Male,M,Asian or Pacific Islander,1552,22353743,6.9
+,Neoplasms,C00-D48,25-34 years,29.5,Male,M,Black or African American,4958,46678112,10.6
+,Neoplasms,C00-D48,25-34 years,29.5,Male,M,White,25356,274504029,9.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,25-34 years,29.5,Female,F,American Indian or Alaska Native,18,4743621,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,25-34 years,29.5,Female,F,Asian or Pacific Islander,48,24079818,0.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,25-34 years,29.5,Female,F,Black or African American,1453,51218894,2.8
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,25-34 years,29.5,Female,F,White,826,263766564,0.3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,25-34 years,29.5,Male,M,American Indian or Alaska Native,18,5017032,Unreliable
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,25-34 years,29.5,Male,M,Asian or Pacific Islander,62,22353743,0.3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,25-34 years,29.5,Male,M,Black or African American,1615,46678112,3.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,25-34 years,29.5,Male,M,White,1027,274504029,0.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,25-34 years,29.5,Female,F,American Indian or Alaska Native,126,4743621,2.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,25-34 years,29.5,Female,F,Asian or Pacific Islander,149,24079818,0.6
+,"Endocrine, nutritional and metabolic diseases",E00-E88,25-34 years,29.5,Female,F,Black or African American,2774,51218894,5.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,25-34 years,29.5,Female,F,White,6234,263766564,2.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,25-34 years,29.5,Male,M,American Indian or Alaska Native,230,5017032,4.6
+,"Endocrine, nutritional and metabolic diseases",E00-E88,25-34 years,29.5,Male,M,Asian or Pacific Islander,216,22353743,1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,25-34 years,29.5,Male,M,Black or African American,3270,46678112,7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,25-34 years,29.5,Male,M,White,8687,274504029,3.2
+,Mental and behavioural disorders,F01-F99,25-34 years,29.5,Female,F,American Indian or Alaska Native,146,4743621,3.1
+,Mental and behavioural disorders,F01-F99,25-34 years,29.5,Female,F,Asian or Pacific Islander,50,24079818,0.2
+,Mental and behavioural disorders,F01-F99,25-34 years,29.5,Female,F,Black or African American,478,51218894,0.9
+,Mental and behavioural disorders,F01-F99,25-34 years,29.5,Female,F,White,2928,263766564,1.1
+,Mental and behavioural disorders,F01-F99,25-34 years,29.5,Male,M,American Indian or Alaska Native,268,5017032,5.3
+,Mental and behavioural disorders,F01-F99,25-34 years,29.5,Male,M,Asian or Pacific Islander,119,22353743,0.5
+,Mental and behavioural disorders,F01-F99,25-34 years,29.5,Male,M,Black or African American,987,46678112,2.1
+,Mental and behavioural disorders,F01-F99,25-34 years,29.5,Male,M,White,6615,274504029,2.4
+,Diseases of the nervous system,G00-G98,25-34 years,29.5,Female,F,American Indian or Alaska Native,87,4743621,1.8
+,Diseases of the nervous system,G00-G98,25-34 years,29.5,Female,F,Asian or Pacific Islander,162,24079818,0.7
+,Diseases of the nervous system,G00-G98,25-34 years,29.5,Female,F,Black or African American,1746,51218894,3.4
+,Diseases of the nervous system,G00-G98,25-34 years,29.5,Female,F,White,4973,263766564,1.9
+,Diseases of the nervous system,G00-G98,25-34 years,29.5,Male,M,American Indian or Alaska Native,125,5017032,2.5
+,Diseases of the nervous system,G00-G98,25-34 years,29.5,Male,M,Asian or Pacific Islander,237,22353743,1.1
+,Diseases of the nervous system,G00-G98,25-34 years,29.5,Male,M,Black or African American,2081,46678112,4.5
+,Diseases of the nervous system,G00-G98,25-34 years,29.5,Male,M,White,7652,274504029,2.8
+,Diseases of the eye and adnexa,H00-H57,25-34 years,29.5,Female,F,Black or African American,2,51218894,Unreliable
+,Diseases of the eye and adnexa,H00-H57,25-34 years,29.5,Female,F,White,5,263766564,Unreliable
+,Diseases of the eye and adnexa,H00-H57,25-34 years,29.5,Male,M,Black or African American,1,46678112,Unreliable
+,Diseases of the eye and adnexa,H00-H57,25-34 years,29.5,Male,M,White,9,274504029,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,25-34 years,29.5,Female,F,Black or African American,3,51218894,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,25-34 years,29.5,Female,F,White,17,263766564,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,25-34 years,29.5,Male,M,Black or African American,1,46678112,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,25-34 years,29.5,Male,M,White,26,274504029,0
+,Diseases of the circulatory system,I00-I99,25-34 years,29.5,Female,F,American Indian or Alaska Native,292,4743621,6.2
+,Diseases of the circulatory system,I00-I99,25-34 years,29.5,Female,F,Asian or Pacific Islander,632,24079818,2.6
+,Diseases of the circulatory system,I00-I99,25-34 years,29.5,Female,F,Black or African American,8705,51218894,17
+,Diseases of the circulatory system,I00-I99,25-34 years,29.5,Female,F,White,15461,263766564,5.9
+,Diseases of the circulatory system,I00-I99,25-34 years,29.5,Male,M,American Indian or Alaska Native,588,5017032,11.7
+,Diseases of the circulatory system,I00-I99,25-34 years,29.5,Male,M,Asian or Pacific Islander,1515,22353743,6.8
+,Diseases of the circulatory system,I00-I99,25-34 years,29.5,Male,M,Black or African American,12885,46678112,27.6
+,Diseases of the circulatory system,I00-I99,25-34 years,29.5,Male,M,White,30863,274504029,11.2
+,Diseases of the respiratory system,J00-J98,25-34 years,29.5,Female,F,American Indian or Alaska Native,111,4743621,2.3
+,Diseases of the respiratory system,J00-J98,25-34 years,29.5,Female,F,Asian or Pacific Islander,159,24079818,0.7
+,Diseases of the respiratory system,J00-J98,25-34 years,29.5,Female,F,Black or African American,2092,51218894,4.1
+,Diseases of the respiratory system,J00-J98,25-34 years,29.5,Female,F,White,5204,263766564,2
+,Diseases of the respiratory system,J00-J98,25-34 years,29.5,Male,M,American Indian or Alaska Native,142,5017032,2.8
+,Diseases of the respiratory system,J00-J98,25-34 years,29.5,Male,M,Asian or Pacific Islander,228,22353743,1
+,Diseases of the respiratory system,J00-J98,25-34 years,29.5,Male,M,Black or African American,2617,46678112,5.6
+,Diseases of the respiratory system,J00-J98,25-34 years,29.5,Male,M,White,6354,274504029,2.3
+,Diseases of the digestive system,K00-K92,25-34 years,29.5,Female,F,American Indian or Alaska Native,452,4743621,9.5
+,Diseases of the digestive system,K00-K92,25-34 years,29.5,Female,F,Asian or Pacific Islander,135,24079818,0.6
+,Diseases of the digestive system,K00-K92,25-34 years,29.5,Female,F,Black or African American,1350,51218894,2.6
+,Diseases of the digestive system,K00-K92,25-34 years,29.5,Female,F,White,4999,263766564,1.9
+,Diseases of the digestive system,K00-K92,25-34 years,29.5,Male,M,American Indian or Alaska Native,585,5017032,11.7
+,Diseases of the digestive system,K00-K92,25-34 years,29.5,Male,M,Asian or Pacific Islander,276,22353743,1.2
+,Diseases of the digestive system,K00-K92,25-34 years,29.5,Male,M,Black or African American,1570,46678112,3.4
+,Diseases of the digestive system,K00-K92,25-34 years,29.5,Male,M,White,8585,274504029,3.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,25-34 years,29.5,Female,F,American Indian or Alaska Native,10,4743621,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,25-34 years,29.5,Female,F,Asian or Pacific Islander,17,24079818,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,25-34 years,29.5,Female,F,Black or African American,252,51218894,0.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,25-34 years,29.5,Female,F,White,236,263766564,0.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,25-34 years,29.5,Male,M,American Indian or Alaska Native,7,5017032,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,25-34 years,29.5,Male,M,Asian or Pacific Islander,11,22353743,Unreliable
+,Diseases of the skin and subcutaneous tissue,L00-L98,25-34 years,29.5,Male,M,Black or African American,109,46678112,0.2
+,Diseases of the skin and subcutaneous tissue,L00-L98,25-34 years,29.5,Male,M,White,222,274504029,0.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,25-34 years,29.5,Female,F,American Indian or Alaska Native,53,4743621,1.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,25-34 years,29.5,Female,F,Asian or Pacific Islander,179,24079818,0.7
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,25-34 years,29.5,Female,F,Black or African American,1559,51218894,3
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,25-34 years,29.5,Female,F,White,1618,263766564,0.6
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,25-34 years,29.5,Male,M,American Indian or Alaska Native,17,5017032,Unreliable
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,25-34 years,29.5,Male,M,Asian or Pacific Islander,43,22353743,0.2
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,25-34 years,29.5,Male,M,Black or African American,501,46678112,1.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,25-34 years,29.5,Male,M,White,818,274504029,0.3
+,Diseases of the genitourinary system,N00-N98,25-34 years,29.5,Female,F,American Indian or Alaska Native,55,4743621,1.2
+,Diseases of the genitourinary system,N00-N98,25-34 years,29.5,Female,F,Asian or Pacific Islander,65,24079818,0.3
+,Diseases of the genitourinary system,N00-N98,25-34 years,29.5,Female,F,Black or African American,1051,51218894,2.1
+,Diseases of the genitourinary system,N00-N98,25-34 years,29.5,Female,F,White,1619,263766564,0.6
+,Diseases of the genitourinary system,N00-N98,25-34 years,29.5,Male,M,American Indian or Alaska Native,40,5017032,0.8
+,Diseases of the genitourinary system,N00-N98,25-34 years,29.5,Male,M,Asian or Pacific Islander,69,22353743,0.3
+,Diseases of the genitourinary system,N00-N98,25-34 years,29.5,Male,M,Black or African American,1007,46678112,2.2
+,Diseases of the genitourinary system,N00-N98,25-34 years,29.5,Male,M,White,1613,274504029,0.6
+,"Pregnancy, childbirth and the puerperium",O00-O99,25-34 years,29.5,Female,F,American Indian or Alaska Native,79,4743621,1.7
+,"Pregnancy, childbirth and the puerperium",O00-O99,25-34 years,29.5,Female,F,Asian or Pacific Islander,265,24079818,1.1
+,"Pregnancy, childbirth and the puerperium",O00-O99,25-34 years,29.5,Female,F,Black or African American,1845,51218894,3.6
+,"Pregnancy, childbirth and the puerperium",O00-O99,25-34 years,29.5,Female,F,White,3185,263766564,1.2
+,Certain conditions originating in the perinatal period,P00-P96,25-34 years,29.5,Female,F,Asian or Pacific Islander,3,24079818,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,25-34 years,29.5,Female,F,Black or African American,7,51218894,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,25-34 years,29.5,Female,F,White,34,263766564,0
+,Certain conditions originating in the perinatal period,P00-P96,25-34 years,29.5,Male,M,American Indian or Alaska Native,1,5017032,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,25-34 years,29.5,Male,M,Black or African American,7,46678112,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,25-34 years,29.5,Male,M,White,52,274504029,0
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,25-34 years,29.5,Female,F,American Indian or Alaska Native,29,4743621,0.6
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,25-34 years,29.5,Female,F,Asian or Pacific Islander,75,24079818,0.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,25-34 years,29.5,Female,F,Black or African American,525,51218894,1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,25-34 years,29.5,Female,F,White,2491,263766564,0.9
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,25-34 years,29.5,Male,M,American Indian or Alaska Native,44,5017032,0.9
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,25-34 years,29.5,Male,M,Asian or Pacific Islander,109,22353743,0.5
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,25-34 years,29.5,Male,M,Black or African American,675,46678112,1.4
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,25-34 years,29.5,Male,M,White,3353,274504029,1.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,25-34 years,29.5,Female,F,American Indian or Alaska Native,111,4743621,2.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,25-34 years,29.5,Female,F,Asian or Pacific Islander,128,24079818,0.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,25-34 years,29.5,Female,F,Black or African American,1435,51218894,2.8
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,25-34 years,29.5,Female,F,White,4768,263766564,1.8
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,25-34 years,29.5,Male,M,American Indian or Alaska Native,186,5017032,3.7
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,25-34 years,29.5,Male,M,Asian or Pacific Islander,285,22353743,1.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,25-34 years,29.5,Male,M,Black or African American,2414,46678112,5.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,25-34 years,29.5,Male,M,White,10033,274504029,3.7
+,Codes for special purposes,U00-U99,25-34 years,29.5,Female,F,American Indian or Alaska Native,1,4743621,Unreliable
+,Codes for special purposes,U00-U99,25-34 years,29.5,Female,F,Asian or Pacific Islander,24,24079818,0.1
+,Codes for special purposes,U00-U99,25-34 years,29.5,Female,F,Black or African American,23,51218894,0
+,Codes for special purposes,U00-U99,25-34 years,29.5,Female,F,White,156,263766564,0.1
+,Codes for special purposes,U00-U99,25-34 years,29.5,Male,M,Asian or Pacific Islander,45,22353743,0.2
+,Codes for special purposes,U00-U99,25-34 years,29.5,Male,M,Black or African American,46,46678112,0.1
+,Codes for special purposes,U00-U99,25-34 years,29.5,Male,M,White,531,274504029,0.2
+,External causes of morbidity and mortality,V01-Y89,25-34 years,29.5,Female,F,American Indian or Alaska Native,2221,4743621,46.8
+,External causes of morbidity and mortality,V01-Y89,25-34 years,29.5,Female,F,Asian or Pacific Islander,2599,24079818,10.8
+,External causes of morbidity and mortality,V01-Y89,25-34 years,29.5,Female,F,Black or African American,14288,51218894,27.9
+,External causes of morbidity and mortality,V01-Y89,25-34 years,29.5,Female,F,White,77090,263766564,29.2
+,External causes of morbidity and mortality,V01-Y89,25-34 years,29.5,Male,M,American Indian or Alaska Native,6059,5017032,120.8
+,External causes of morbidity and mortality,V01-Y89,25-34 years,29.5,Male,M,Asian or Pacific Islander,6847,22353743,30.6
+,External causes of morbidity and mortality,V01-Y89,25-34 years,29.5,Male,M,Black or African American,68555,46678112,146.9
+,External causes of morbidity and mortality,V01-Y89,25-34 years,29.5,Male,M,White,254061,274504029,92.6
+,Certain infectious and parasitic diseases,A00-B99,35-44 years,39.5,Female,F,American Indian or Alaska Native,375,4535923,8.3
+,Certain infectious and parasitic diseases,A00-B99,35-44 years,39.5,Female,F,Asian or Pacific Islander,339,22515831,1.5
+,Certain infectious and parasitic diseases,A00-B99,35-44 years,39.5,Female,F,Black or African American,15001,51291615,29.2
+,Certain infectious and parasitic diseases,A00-B99,35-44 years,39.5,Female,F,White,13466,285893027,4.7
+,Certain infectious and parasitic diseases,A00-B99,35-44 years,39.5,Male,M,American Indian or Alaska Native,632,4545821,13.9
+,Certain infectious and parasitic diseases,A00-B99,35-44 years,39.5,Male,M,Asian or Pacific Islander,851,20359074,4.2
+,Certain infectious and parasitic diseases,A00-B99,35-44 years,39.5,Male,M,Black or African American,24178,45549662,53.1
+,Certain infectious and parasitic diseases,A00-B99,35-44 years,39.5,Male,M,White,34088,290177585,11.7
+,Neoplasms,C00-D48,35-44 years,39.5,Female,F,American Indian or Alaska Native,937,4535923,20.7
+,Neoplasms,C00-D48,35-44 years,39.5,Female,F,Asian or Pacific Islander,5370,22515831,23.8
+,Neoplasms,C00-D48,35-44 years,39.5,Female,F,Black or African American,25959,51291615,50.6
+,Neoplasms,C00-D48,35-44 years,39.5,Female,F,White,101087,285893027,35.4
+,Neoplasms,C00-D48,35-44 years,39.5,Male,M,American Indian or Alaska Native,748,4545821,16.5
+,Neoplasms,C00-D48,35-44 years,39.5,Male,M,Asian or Pacific Islander,4270,20359074,21
+,Neoplasms,C00-D48,35-44 years,39.5,Male,M,Black or African American,16632,45549662,36.5
+,Neoplasms,C00-D48,35-44 years,39.5,Male,M,White,81789,290177585,28.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,35-44 years,39.5,Female,F,American Indian or Alaska Native,33,4535923,0.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,35-44 years,39.5,Female,F,Asian or Pacific Islander,91,22515831,0.4
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,35-44 years,39.5,Female,F,Black or African American,2702,51291615,5.3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,35-44 years,39.5,Female,F,White,1832,285893027,0.6
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,35-44 years,39.5,Male,M,American Indian or Alaska Native,35,4545821,0.8
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,35-44 years,39.5,Male,M,Asian or Pacific Islander,83,20359074,0.4
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,35-44 years,39.5,Male,M,Black or African American,2492,45549662,5.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,35-44 years,39.5,Male,M,White,2128,290177585,0.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,35-44 years,39.5,Female,F,American Indian or Alaska Native,351,4535923,7.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,35-44 years,39.5,Female,F,Asian or Pacific Islander,296,22515831,1.3
+,"Endocrine, nutritional and metabolic diseases",E00-E88,35-44 years,39.5,Female,F,Black or African American,6211,51291615,12.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,35-44 years,39.5,Female,F,White,14856,285893027,5.2
+,"Endocrine, nutritional and metabolic diseases",E00-E88,35-44 years,39.5,Male,M,American Indian or Alaska Native,601,4545821,13.2
+,"Endocrine, nutritional and metabolic diseases",E00-E88,35-44 years,39.5,Male,M,Asian or Pacific Islander,559,20359074,2.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,35-44 years,39.5,Male,M,Black or African American,7590,45549662,16.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,35-44 years,39.5,Male,M,White,23042,290177585,7.9
+,Mental and behavioural disorders,F01-F99,35-44 years,39.5,Female,F,American Indian or Alaska Native,331,4535923,7.3
+,Mental and behavioural disorders,F01-F99,35-44 years,39.5,Female,F,Asian or Pacific Islander,75,22515831,0.3
+,Mental and behavioural disorders,F01-F99,35-44 years,39.5,Female,F,Black or African American,1630,51291615,3.2
+,Mental and behavioural disorders,F01-F99,35-44 years,39.5,Female,F,White,6723,285893027,2.4
+,Mental and behavioural disorders,F01-F99,35-44 years,39.5,Male,M,American Indian or Alaska Native,651,4545821,14.3
+,Mental and behavioural disorders,F01-F99,35-44 years,39.5,Male,M,Asian or Pacific Islander,280,20359074,1.4
+,Mental and behavioural disorders,F01-F99,35-44 years,39.5,Male,M,Black or African American,3047,45549662,6.7
+,Mental and behavioural disorders,F01-F99,35-44 years,39.5,Male,M,White,17069,290177585,5.9
+,Diseases of the nervous system,G00-G98,35-44 years,39.5,Female,F,American Indian or Alaska Native,139,4535923,3.1
+,Diseases of the nervous system,G00-G98,35-44 years,39.5,Female,F,Asian or Pacific Islander,206,22515831,0.9
+,Diseases of the nervous system,G00-G98,35-44 years,39.5,Female,F,Black or African American,3111,51291615,6.1
+,Diseases of the nervous system,G00-G98,35-44 years,39.5,Female,F,White,10300,285893027,3.6
+,Diseases of the nervous system,G00-G98,35-44 years,39.5,Male,M,American Indian or Alaska Native,198,4545821,4.4
+,Diseases of the nervous system,G00-G98,35-44 years,39.5,Male,M,Asian or Pacific Islander,280,20359074,1.4
+,Diseases of the nervous system,G00-G98,35-44 years,39.5,Male,M,Black or African American,3318,45549662,7.3
+,Diseases of the nervous system,G00-G98,35-44 years,39.5,Male,M,White,13589,290177585,4.7
+,Diseases of the eye and adnexa,H00-H57,35-44 years,39.5,Female,F,Black or African American,3,51291615,Unreliable
+,Diseases of the eye and adnexa,H00-H57,35-44 years,39.5,Female,F,White,7,285893027,Unreliable
+,Diseases of the eye and adnexa,H00-H57,35-44 years,39.5,Male,M,Asian or Pacific Islander,1,20359074,Unreliable
+,Diseases of the eye and adnexa,H00-H57,35-44 years,39.5,Male,M,Black or African American,2,45549662,Unreliable
+,Diseases of the eye and adnexa,H00-H57,35-44 years,39.5,Male,M,White,9,290177585,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,35-44 years,39.5,Female,F,American Indian or Alaska Native,1,4535923,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,35-44 years,39.5,Female,F,Black or African American,11,51291615,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,35-44 years,39.5,Female,F,White,25,285893027,0
+,Diseases of the ear and mastoid process,H60-H93,35-44 years,39.5,Male,M,American Indian or Alaska Native,1,4545821,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,35-44 years,39.5,Male,M,Asian or Pacific Islander,3,20359074,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,35-44 years,39.5,Male,M,Black or African American,11,45549662,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,35-44 years,39.5,Male,M,White,50,290177585,0
+,Diseases of the circulatory system,I00-I99,35-44 years,39.5,Female,F,American Indian or Alaska Native,963,4535923,21.2
+,Diseases of the circulatory system,I00-I99,35-44 years,39.5,Female,F,Asian or Pacific Islander,1864,22515831,8.3
+,Diseases of the circulatory system,I00-I99,35-44 years,39.5,Female,F,Black or African American,27942,51291615,54.5
+,Diseases of the circulatory system,I00-I99,35-44 years,39.5,Female,F,White,55056,285893027,19.3
+,Diseases of the circulatory system,I00-I99,35-44 years,39.5,Male,M,American Indian or Alaska Native,1818,4545821,40
+,Diseases of the circulatory system,I00-I99,35-44 years,39.5,Male,M,Asian or Pacific Islander,4868,20359074,23.9
+,Diseases of the circulatory system,I00-I99,35-44 years,39.5,Male,M,Black or African American,42169,45549662,92.6
+,Diseases of the circulatory system,I00-I99,35-44 years,39.5,Male,M,White,123814,290177585,42.7
+,Diseases of the respiratory system,J00-J98,35-44 years,39.5,Female,F,American Indian or Alaska Native,309,4535923,6.8
+,Diseases of the respiratory system,J00-J98,35-44 years,39.5,Female,F,Asian or Pacific Islander,316,22515831,1.4
+,Diseases of the respiratory system,J00-J98,35-44 years,39.5,Female,F,Black or African American,4915,51291615,9.6
+,Diseases of the respiratory system,J00-J98,35-44 years,39.5,Female,F,White,14426,285893027,5
+,Diseases of the respiratory system,J00-J98,35-44 years,39.5,Male,M,American Indian or Alaska Native,375,4545821,8.2
+,Diseases of the respiratory system,J00-J98,35-44 years,39.5,Male,M,Asian or Pacific Islander,438,20359074,2.2
+,Diseases of the respiratory system,J00-J98,35-44 years,39.5,Male,M,Black or African American,5197,45549662,11.4
+,Diseases of the respiratory system,J00-J98,35-44 years,39.5,Male,M,White,15623,290177585,5.4
+,Diseases of the digestive system,K00-K92,35-44 years,39.5,Female,F,American Indian or Alaska Native,1467,4535923,32.3
+,Diseases of the digestive system,K00-K92,35-44 years,39.5,Female,F,Asian or Pacific Islander,308,22515831,1.4
+,Diseases of the digestive system,K00-K92,35-44 years,39.5,Female,F,Black or African American,4550,51291615,8.9
+,Diseases of the digestive system,K00-K92,35-44 years,39.5,Female,F,White,22078,285893027,7.7
+,Diseases of the digestive system,K00-K92,35-44 years,39.5,Male,M,American Indian or Alaska Native,1798,4545821,39.6
+,Diseases of the digestive system,K00-K92,35-44 years,39.5,Male,M,Asian or Pacific Islander,921,20359074,4.5
+,Diseases of the digestive system,K00-K92,35-44 years,39.5,Male,M,Black or African American,5858,45549662,12.9
+,Diseases of the digestive system,K00-K92,35-44 years,39.5,Male,M,White,40596,290177585,14
+,Diseases of the skin and subcutaneous tissue,L00-L98,35-44 years,39.5,Female,F,American Indian or Alaska Native,24,4535923,0.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,35-44 years,39.5,Female,F,Asian or Pacific Islander,23,22515831,0.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,35-44 years,39.5,Female,F,Black or African American,384,51291615,0.7
+,Diseases of the skin and subcutaneous tissue,L00-L98,35-44 years,39.5,Female,F,White,583,285893027,0.2
+,Diseases of the skin and subcutaneous tissue,L00-L98,35-44 years,39.5,Male,M,American Indian or Alaska Native,25,4545821,0.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,35-44 years,39.5,Male,M,Asian or Pacific Islander,28,20359074,0.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,35-44 years,39.5,Male,M,Black or African American,245,45549662,0.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,35-44 years,39.5,Male,M,White,670,290177585,0.2
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,35-44 years,39.5,Female,F,American Indian or Alaska Native,94,4535923,2.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,35-44 years,39.5,Female,F,Asian or Pacific Islander,200,22515831,0.9
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,35-44 years,39.5,Female,F,Black or African American,2462,51291615,4.8
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,35-44 years,39.5,Female,F,White,3369,285893027,1.2
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,35-44 years,39.5,Male,M,American Indian or Alaska Native,46,4545821,1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,35-44 years,39.5,Male,M,Asian or Pacific Islander,86,20359074,0.4
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,35-44 years,39.5,Male,M,Black or African American,951,45549662,2.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,35-44 years,39.5,Male,M,White,1913,290177585,0.7
+,Diseases of the genitourinary system,N00-N98,35-44 years,39.5,Female,F,American Indian or Alaska Native,118,4535923,2.6
+,Diseases of the genitourinary system,N00-N98,35-44 years,39.5,Female,F,Asian or Pacific Islander,155,22515831,0.7
+,Diseases of the genitourinary system,N00-N98,35-44 years,39.5,Female,F,Black or African American,2868,51291615,5.6
+,Diseases of the genitourinary system,N00-N98,35-44 years,39.5,Female,F,White,4185,285893027,1.5
+,Diseases of the genitourinary system,N00-N98,35-44 years,39.5,Male,M,American Indian or Alaska Native,129,4545821,2.8
+,Diseases of the genitourinary system,N00-N98,35-44 years,39.5,Male,M,Asian or Pacific Islander,183,20359074,0.9
+,Diseases of the genitourinary system,N00-N98,35-44 years,39.5,Male,M,Black or African American,3058,45549662,6.7
+,Diseases of the genitourinary system,N00-N98,35-44 years,39.5,Male,M,White,4950,290177585,1.7
+,"Pregnancy, childbirth and the puerperium",O00-O99,35-44 years,39.5,Female,F,American Indian or Alaska Native,59,4535923,1.3
+,"Pregnancy, childbirth and the puerperium",O00-O99,35-44 years,39.5,Female,F,Asian or Pacific Islander,211,22515831,0.9
+,"Pregnancy, childbirth and the puerperium",O00-O99,35-44 years,39.5,Female,F,Black or African American,1146,51291615,2.2
+,"Pregnancy, childbirth and the puerperium",O00-O99,35-44 years,39.5,Female,F,White,2126,285893027,0.7
+,Certain conditions originating in the perinatal period,P00-P96,35-44 years,39.5,Female,F,American Indian or Alaska Native,1,4535923,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,35-44 years,39.5,Female,F,Black or African American,3,51291615,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,35-44 years,39.5,Female,F,White,33,285893027,0
+,Certain conditions originating in the perinatal period,P00-P96,35-44 years,39.5,Male,M,Asian or Pacific Islander,2,20359074,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,35-44 years,39.5,Male,M,Black or African American,10,45549662,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,35-44 years,39.5,Male,M,White,36,290177585,0
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,35-44 years,39.5,Female,F,American Indian or Alaska Native,32,4535923,0.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,35-44 years,39.5,Female,F,Asian or Pacific Islander,87,22515831,0.4
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,35-44 years,39.5,Female,F,Black or African American,562,51291615,1.1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,35-44 years,39.5,Female,F,White,3077,285893027,1.1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,35-44 years,39.5,Male,M,American Indian or Alaska Native,37,4545821,0.8
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,35-44 years,39.5,Male,M,Asian or Pacific Islander,118,20359074,0.6
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,35-44 years,39.5,Male,M,Black or African American,661,45549662,1.5
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,35-44 years,39.5,Male,M,White,3769,290177585,1.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,35-44 years,39.5,Female,F,American Indian or Alaska Native,144,4535923,3.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,35-44 years,39.5,Female,F,Asian or Pacific Islander,136,22515831,0.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,35-44 years,39.5,Female,F,Black or African American,2492,51291615,4.9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,35-44 years,39.5,Female,F,White,8698,285893027,3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,35-44 years,39.5,Male,M,American Indian or Alaska Native,252,4545821,5.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,35-44 years,39.5,Male,M,Asian or Pacific Islander,348,20359074,1.7
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,35-44 years,39.5,Male,M,Black or African American,3552,45549662,7.8
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,35-44 years,39.5,Male,M,White,15292,290177585,5.3
+,Codes for special purposes,U00-U99,35-44 years,39.5,Female,F,Asian or Pacific Islander,17,22515831,Unreliable
+,Codes for special purposes,U00-U99,35-44 years,39.5,Female,F,Black or African American,46,51291615,0.1
+,Codes for special purposes,U00-U99,35-44 years,39.5,Female,F,White,146,285893027,0.1
+,Codes for special purposes,U00-U99,35-44 years,39.5,Male,M,Asian or Pacific Islander,39,20359074,0.2
+,Codes for special purposes,U00-U99,35-44 years,39.5,Male,M,Black or African American,60,45549662,0.1
+,Codes for special purposes,U00-U99,35-44 years,39.5,Male,M,White,742,290177585,0.3
+,External causes of morbidity and mortality,V01-Y89,35-44 years,39.5,Female,F,American Indian or Alaska Native,2337,4535923,51.5
+,External causes of morbidity and mortality,V01-Y89,35-44 years,39.5,Female,F,Asian or Pacific Islander,2407,22515831,10.7
+,External causes of morbidity and mortality,V01-Y89,35-44 years,39.5,Female,F,Black or African American,16891,51291615,32.9
+,External causes of morbidity and mortality,V01-Y89,35-44 years,39.5,Female,F,White,105025,285893027,36.7
+,External causes of morbidity and mortality,V01-Y89,35-44 years,39.5,Male,M,American Indian or Alaska Native,5424,4545821,119.3
+,External causes of morbidity and mortality,V01-Y89,35-44 years,39.5,Male,M,Asian or Pacific Islander,5517,20359074,27.1
+,External causes of morbidity and mortality,V01-Y89,35-44 years,39.5,Male,M,Black or African American,50695,45549662,111.3
+,External causes of morbidity and mortality,V01-Y89,35-44 years,39.5,Male,M,White,271562,290177585,93.6
+,Certain infectious and parasitic diseases,A00-B99,45-54 years,49.5,Female,F,American Indian or Alaska Native,694,4030835,17.2
+,Certain infectious and parasitic diseases,A00-B99,45-54 years,49.5,Female,F,Asian or Pacific Islander,768,18745709,4.1
+,Certain infectious and parasitic diseases,A00-B99,45-54 years,49.5,Female,F,Black or African American,18282,47399255,38.6
+,Certain infectious and parasitic diseases,A00-B99,45-54 years,49.5,Female,F,White,29619,295509237,10
+,Certain infectious and parasitic diseases,A00-B99,45-54 years,49.5,Male,M,American Indian or Alaska Native,1080,3879358,27.8
+,Certain infectious and parasitic diseases,A00-B99,45-54 years,49.5,Male,M,Asian or Pacific Islander,1553,16411955,9.5
+,Certain infectious and parasitic diseases,A00-B99,45-54 years,49.5,Male,M,Black or African American,34081,41579841,82
+,Certain infectious and parasitic diseases,A00-B99,45-54 years,49.5,Male,M,White,66923,291985665,22.9
+,Neoplasms,C00-D48,45-54 years,49.5,Female,F,American Indian or Alaska Native,2789,4030835,69.2
+,Neoplasms,C00-D48,45-54 years,49.5,Female,F,Asian or Pacific Islander,13419,18745709,71.6
+,Neoplasms,C00-D48,45-54 years,49.5,Female,F,Black or African American,72843,47399255,153.7
+,Neoplasms,C00-D48,45-54 years,49.5,Female,F,White,326691,295509237,110.6
+,Neoplasms,C00-D48,45-54 years,49.5,Male,M,American Indian or Alaska Native,2796,3879358,72.1
+,Neoplasms,C00-D48,45-54 years,49.5,Male,M,Asian or Pacific Islander,11880,16411955,72.4
+,Neoplasms,C00-D48,45-54 years,49.5,Male,M,Black or African American,70698,41579841,170
+,Neoplasms,C00-D48,45-54 years,49.5,Male,M,White,337176,291985665,115.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,45-54 years,49.5,Female,F,American Indian or Alaska Native,70,4030835,1.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,45-54 years,49.5,Female,F,Asian or Pacific Islander,135,18745709,0.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,45-54 years,49.5,Female,F,Black or African American,3817,47399255,8.1
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,45-54 years,49.5,Female,F,White,3719,295509237,1.3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,45-54 years,49.5,Male,M,American Indian or Alaska Native,63,3879358,1.6
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,45-54 years,49.5,Male,M,Asian or Pacific Islander,120,16411955,0.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,45-54 years,49.5,Male,M,Black or African American,3253,41579841,7.8
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,45-54 years,49.5,Male,M,White,4226,291985665,1.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,45-54 years,49.5,Female,F,American Indian or Alaska Native,935,4030835,23.2
+,"Endocrine, nutritional and metabolic diseases",E00-E88,45-54 years,49.5,Female,F,Asian or Pacific Islander,830,18745709,4.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,45-54 years,49.5,Female,F,Black or African American,14741,47399255,31.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,45-54 years,49.5,Female,F,White,38277,295509237,13
+,"Endocrine, nutritional and metabolic diseases",E00-E88,45-54 years,49.5,Male,M,American Indian or Alaska Native,1280,3879358,33
+,"Endocrine, nutritional and metabolic diseases",E00-E88,45-54 years,49.5,Male,M,Asian or Pacific Islander,1555,16411955,9.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,45-54 years,49.5,Male,M,Black or African American,16853,41579841,40.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,45-54 years,49.5,Male,M,White,62340,291985665,21.4
+,Mental and behavioural disorders,F01-F99,45-54 years,49.5,Female,F,American Indian or Alaska Native,370,4030835,9.2
+,Mental and behavioural disorders,F01-F99,45-54 years,49.5,Female,F,Asian or Pacific Islander,114,18745709,0.6
+,Mental and behavioural disorders,F01-F99,45-54 years,49.5,Female,F,Black or African American,2689,47399255,5.7
+,Mental and behavioural disorders,F01-F99,45-54 years,49.5,Female,F,White,12307,295509237,4.2
+,Mental and behavioural disorders,F01-F99,45-54 years,49.5,Male,M,American Indian or Alaska Native,843,3879358,21.7
+,Mental and behavioural disorders,F01-F99,45-54 years,49.5,Male,M,Asian or Pacific Islander,391,16411955,2.4
+,Mental and behavioural disorders,F01-F99,45-54 years,49.5,Male,M,Black or African American,6622,41579841,15.9
+,Mental and behavioural disorders,F01-F99,45-54 years,49.5,Male,M,White,32820,291985665,11.2
+,Diseases of the nervous system,G00-G98,45-54 years,49.5,Female,F,American Indian or Alaska Native,257,4030835,6.4
+,Diseases of the nervous system,G00-G98,45-54 years,49.5,Female,F,Asian or Pacific Islander,420,18745709,2.2
+,Diseases of the nervous system,G00-G98,45-54 years,49.5,Female,F,Black or African American,5927,47399255,12.5
+,Diseases of the nervous system,G00-G98,45-54 years,49.5,Female,F,White,25301,295509237,8.6
+,Diseases of the nervous system,G00-G98,45-54 years,49.5,Male,M,American Indian or Alaska Native,311,3879358,8
+,Diseases of the nervous system,G00-G98,45-54 years,49.5,Male,M,Asian or Pacific Islander,500,16411955,3
+,Diseases of the nervous system,G00-G98,45-54 years,49.5,Male,M,Black or African American,6019,41579841,14.5
+,Diseases of the nervous system,G00-G98,45-54 years,49.5,Male,M,White,30377,291985665,10.4
+,Diseases of the eye and adnexa,H00-H57,45-54 years,49.5,Female,F,American Indian or Alaska Native,3,4030835,Unreliable
+,Diseases of the eye and adnexa,H00-H57,45-54 years,49.5,Female,F,Black or African American,4,47399255,Unreliable
+,Diseases of the eye and adnexa,H00-H57,45-54 years,49.5,Female,F,White,12,295509237,Unreliable
+,Diseases of the eye and adnexa,H00-H57,45-54 years,49.5,Male,M,American Indian or Alaska Native,2,3879358,Unreliable
+,Diseases of the eye and adnexa,H00-H57,45-54 years,49.5,Male,M,Asian or Pacific Islander,1,16411955,Unreliable
+,Diseases of the eye and adnexa,H00-H57,45-54 years,49.5,Male,M,Black or African American,6,41579841,Unreliable
+,Diseases of the eye and adnexa,H00-H57,45-54 years,49.5,Male,M,White,22,291985665,0
+,Diseases of the ear and mastoid process,H60-H93,45-54 years,49.5,Female,F,Asian or Pacific Islander,1,18745709,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,45-54 years,49.5,Female,F,Black or African American,17,47399255,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,45-54 years,49.5,Female,F,White,39,295509237,0
+,Diseases of the ear and mastoid process,H60-H93,45-54 years,49.5,Male,M,Asian or Pacific Islander,3,16411955,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,45-54 years,49.5,Male,M,Black or African American,13,41579841,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,45-54 years,49.5,Male,M,White,57,291985665,0
+,Diseases of the circulatory system,I00-I99,45-54 years,49.5,Female,F,American Indian or Alaska Native,2202,4030835,54.6
+,Diseases of the circulatory system,I00-I99,45-54 years,49.5,Female,F,Asian or Pacific Islander,4754,18745709,25.4
+,Diseases of the circulatory system,I00-I99,45-54 years,49.5,Female,F,Black or African American,71189,47399255,150.2
+,Diseases of the circulatory system,I00-I99,45-54 years,49.5,Female,F,White,161689,295509237,54.7
+,Diseases of the circulatory system,I00-I99,45-54 years,49.5,Male,M,American Indian or Alaska Native,4593,3879358,118.4
+,Diseases of the circulatory system,I00-I99,45-54 years,49.5,Male,M,Asian or Pacific Islander,12016,16411955,73.2
+,Diseases of the circulatory system,I00-I99,45-54 years,49.5,Male,M,Black or African American,112441,41579841,270.4
+,Diseases of the circulatory system,I00-I99,45-54 years,49.5,Male,M,White,402700,291985665,137.9
+,Diseases of the respiratory system,J00-J98,45-54 years,49.5,Female,F,American Indian or Alaska Native,754,4030835,18.7
+,Diseases of the respiratory system,J00-J98,45-54 years,49.5,Female,F,Asian or Pacific Islander,714,18745709,3.8
+,Diseases of the respiratory system,J00-J98,45-54 years,49.5,Female,F,Black or African American,12047,47399255,25.4
+,Diseases of the respiratory system,J00-J98,45-54 years,49.5,Female,F,White,50753,295509237,17.2
+,Diseases of the respiratory system,J00-J98,45-54 years,49.5,Male,M,American Indian or Alaska Native,846,3879358,21.8
+,Diseases of the respiratory system,J00-J98,45-54 years,49.5,Male,M,Asian or Pacific Islander,1066,16411955,6.5
+,Diseases of the respiratory system,J00-J98,45-54 years,49.5,Male,M,Black or African American,13052,41579841,31.4
+,Diseases of the respiratory system,J00-J98,45-54 years,49.5,Male,M,White,56666,291985665,19.4
+,Diseases of the digestive system,K00-K92,45-54 years,49.5,Female,F,American Indian or Alaska Native,2350,4030835,58.3
+,Diseases of the digestive system,K00-K92,45-54 years,49.5,Female,F,Asian or Pacific Islander,762,18745709,4.1
+,Diseases of the digestive system,K00-K92,45-54 years,49.5,Female,F,Black or African American,10919,47399255,23
+,Diseases of the digestive system,K00-K92,45-54 years,49.5,Female,F,White,57719,295509237,19.5
+,Diseases of the digestive system,K00-K92,45-54 years,49.5,Male,M,American Indian or Alaska Native,2942,3879358,75.8
+,Diseases of the digestive system,K00-K92,45-54 years,49.5,Male,M,Asian or Pacific Islander,1881,16411955,11.5
+,Diseases of the digestive system,K00-K92,45-54 years,49.5,Male,M,Black or African American,18204,41579841,43.8
+,Diseases of the digestive system,K00-K92,45-54 years,49.5,Male,M,White,121848,291985665,41.7
+,Diseases of the skin and subcutaneous tissue,L00-L98,45-54 years,49.5,Female,F,American Indian or Alaska Native,52,4030835,1.3
+,Diseases of the skin and subcutaneous tissue,L00-L98,45-54 years,49.5,Female,F,Asian or Pacific Islander,33,18745709,0.2
+,Diseases of the skin and subcutaneous tissue,L00-L98,45-54 years,49.5,Female,F,Black or African American,695,47399255,1.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,45-54 years,49.5,Female,F,White,1395,295509237,0.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,45-54 years,49.5,Male,M,American Indian or Alaska Native,44,3879358,1.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,45-54 years,49.5,Male,M,Asian or Pacific Islander,44,16411955,0.3
+,Diseases of the skin and subcutaneous tissue,L00-L98,45-54 years,49.5,Male,M,Black or African American,533,41579841,1.3
+,Diseases of the skin and subcutaneous tissue,L00-L98,45-54 years,49.5,Male,M,White,1684,291985665,0.6
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,45-54 years,49.5,Female,F,American Indian or Alaska Native,201,4030835,5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,45-54 years,49.5,Female,F,Asian or Pacific Islander,293,18745709,1.6
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,45-54 years,49.5,Female,F,Black or African American,3537,47399255,7.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,45-54 years,49.5,Female,F,White,7314,295509237,2.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,45-54 years,49.5,Male,M,American Indian or Alaska Native,82,3879358,2.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,45-54 years,49.5,Male,M,Asian or Pacific Islander,143,16411955,0.9
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,45-54 years,49.5,Male,M,Black or African American,1561,41579841,3.8
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,45-54 years,49.5,Male,M,White,4763,291985665,1.6
+,Diseases of the genitourinary system,N00-N98,45-54 years,49.5,Female,F,American Indian or Alaska Native,318,4030835,7.9
+,Diseases of the genitourinary system,N00-N98,45-54 years,49.5,Female,F,Asian or Pacific Islander,371,18745709,2
+,Diseases of the genitourinary system,N00-N98,45-54 years,49.5,Female,F,Black or African American,6656,47399255,14
+,Diseases of the genitourinary system,N00-N98,45-54 years,49.5,Female,F,White,11583,295509237,3.9
+,Diseases of the genitourinary system,N00-N98,45-54 years,49.5,Male,M,American Indian or Alaska Native,304,3879358,7.8
+,Diseases of the genitourinary system,N00-N98,45-54 years,49.5,Male,M,Asian or Pacific Islander,459,16411955,2.8
+,Diseases of the genitourinary system,N00-N98,45-54 years,49.5,Male,M,Black or African American,8020,41579841,19.3
+,Diseases of the genitourinary system,N00-N98,45-54 years,49.5,Male,M,White,15008,291985665,5.1
+,"Pregnancy, childbirth and the puerperium",O00-O99,45-54 years,49.5,Female,F,American Indian or Alaska Native,21,4030835,0.5
+,"Pregnancy, childbirth and the puerperium",O00-O99,45-54 years,49.5,Female,F,Asian or Pacific Islander,26,18745709,0.1
+,"Pregnancy, childbirth and the puerperium",O00-O99,45-54 years,49.5,Female,F,Black or African American,396,47399255,0.8
+,"Pregnancy, childbirth and the puerperium",O00-O99,45-54 years,49.5,Female,F,White,999,295509237,0.3
+,Certain conditions originating in the perinatal period,P00-P96,45-54 years,49.5,Female,F,Black or African American,4,47399255,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,45-54 years,49.5,Female,F,White,20,295509237,0
+,Certain conditions originating in the perinatal period,P00-P96,45-54 years,49.5,Male,M,Black or African American,7,41579841,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,45-54 years,49.5,Male,M,White,39,291985665,0
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,45-54 years,49.5,Female,F,American Indian or Alaska Native,37,4030835,0.9
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,45-54 years,49.5,Female,F,Asian or Pacific Islander,101,18745709,0.5
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,45-54 years,49.5,Female,F,Black or African American,637,47399255,1.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,45-54 years,49.5,Female,F,White,4659,295509237,1.6
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,45-54 years,49.5,Male,M,American Indian or Alaska Native,51,3879358,1.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,45-54 years,49.5,Male,M,Asian or Pacific Islander,116,16411955,0.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,45-54 years,49.5,Male,M,Black or African American,721,41579841,1.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,45-54 years,49.5,Male,M,White,5382,291985665,1.8
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,45-54 years,49.5,Female,F,American Indian or Alaska Native,171,4030835,4.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,45-54 years,49.5,Female,F,Asian or Pacific Islander,185,18745709,1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,45-54 years,49.5,Female,F,Black or African American,3286,47399255,6.9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,45-54 years,49.5,Female,F,White,12057,295509237,4.1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,45-54 years,49.5,Male,M,American Indian or Alaska Native,277,3879358,7.1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,45-54 years,49.5,Male,M,Asian or Pacific Islander,378,16411955,2.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,45-54 years,49.5,Male,M,Black or African American,5348,41579841,12.9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,45-54 years,49.5,Male,M,White,21352,291985665,7.3
+,Codes for special purposes,U00-U99,45-54 years,49.5,Female,F,Asian or Pacific Islander,3,18745709,Unreliable
+,Codes for special purposes,U00-U99,45-54 years,49.5,Female,F,Black or African American,26,47399255,0.1
+,Codes for special purposes,U00-U99,45-54 years,49.5,Female,F,White,127,295509237,0
+,Codes for special purposes,U00-U99,45-54 years,49.5,Male,M,Asian or Pacific Islander,26,16411955,0.2
+,Codes for special purposes,U00-U99,45-54 years,49.5,Male,M,Black or African American,38,41579841,0.1
+,Codes for special purposes,U00-U99,45-54 years,49.5,Male,M,White,409,291985665,0.1
+,External causes of morbidity and mortality,V01-Y89,45-54 years,49.5,Female,F,American Indian or Alaska Native,2002,4030835,49.7
+,External causes of morbidity and mortality,V01-Y89,45-54 years,49.5,Female,F,Asian or Pacific Islander,2623,18745709,14
+,External causes of morbidity and mortality,V01-Y89,45-54 years,49.5,Female,F,Black or African American,17339,47399255,36.6
+,External causes of morbidity and mortality,V01-Y89,45-54 years,49.5,Female,F,White,124251,295509237,42
+,External causes of morbidity and mortality,V01-Y89,45-54 years,49.5,Male,M,American Indian or Alaska Native,4639,3879358,119.6
+,External causes of morbidity and mortality,V01-Y89,45-54 years,49.5,Male,M,Asian or Pacific Islander,5206,16411955,31.7
+,External causes of morbidity and mortality,V01-Y89,45-54 years,49.5,Male,M,Black or African American,45920,41579841,110.4
+,External causes of morbidity and mortality,V01-Y89,45-54 years,49.5,Male,M,White,292619,291985665,100.2
+,Certain infectious and parasitic diseases,A00-B99,55-64 years,59.5,Female,F,American Indian or Alaska Native,737,2614051,28.2
+,Certain infectious and parasitic diseases,A00-B99,55-64 years,59.5,Female,F,Asian or Pacific Islander,1303,13230062,9.8
+,Certain infectious and parasitic diseases,A00-B99,55-64 years,59.5,Female,F,Black or African American,16333,32979196,49.5
+,Certain infectious and parasitic diseases,A00-B99,55-64 years,59.5,Female,F,White,44602,239194882,18.6
+,Certain infectious and parasitic diseases,A00-B99,55-64 years,59.5,Male,M,American Indian or Alaska Native,895,2434376,36.8
+,Certain infectious and parasitic diseases,A00-B99,55-64 years,59.5,Male,M,Asian or Pacific Islander,2106,11144632,18.9
+,Certain infectious and parasitic diseases,A00-B99,55-64 years,59.5,Male,M,Black or African American,27357,27295765,100.2
+,Certain infectious and parasitic diseases,A00-B99,55-64 years,59.5,Male,M,White,72153,226948231,31.8
+,Neoplasms,C00-D48,55-64 years,59.5,Female,F,American Indian or Alaska Native,4752,2614051,181.8
+,Neoplasms,C00-D48,55-64 years,59.5,Female,F,Asian or Pacific Islander,20657,13230062,156.1
+,Neoplasms,C00-D48,55-64 years,59.5,Female,F,Black or African American,115084,32979196,349
+,Neoplasms,C00-D48,55-64 years,59.5,Female,F,White,657107,239194882,274.7
+,Neoplasms,C00-D48,55-64 years,59.5,Male,M,American Indian or Alaska Native,5709,2434376,234.5
+,Neoplasms,C00-D48,55-64 years,59.5,Male,M,Asian or Pacific Islander,22193,11144632,199.1
+,Neoplasms,C00-D48,55-64 years,59.5,Male,M,Black or African American,142023,27295765,520.3
+,Neoplasms,C00-D48,55-64 years,59.5,Male,M,White,804937,226948231,354.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,55-64 years,59.5,Female,F,American Indian or Alaska Native,78,2614051,3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,55-64 years,59.5,Female,F,Asian or Pacific Islander,189,13230062,1.4
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,55-64 years,59.5,Female,F,Black or African American,3491,32979196,10.6
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,55-64 years,59.5,Female,F,White,6301,239194882,2.6
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,55-64 years,59.5,Male,M,American Indian or Alaska Native,64,2434376,2.6
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,55-64 years,59.5,Male,M,Asian or Pacific Islander,202,11144632,1.8
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,55-64 years,59.5,Male,M,Black or African American,2731,27295765,10
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,55-64 years,59.5,Male,M,White,6586,226948231,2.9
+,"Endocrine, nutritional and metabolic diseases",E00-E88,55-64 years,59.5,Female,F,American Indian or Alaska Native,1668,2614051,63.8
+,"Endocrine, nutritional and metabolic diseases",E00-E88,55-64 years,59.5,Female,F,Asian or Pacific Islander,1989,13230062,15
+,"Endocrine, nutritional and metabolic diseases",E00-E88,55-64 years,59.5,Female,F,Black or African American,25103,32979196,76.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,55-64 years,59.5,Female,F,White,77900,239194882,32.6
+,"Endocrine, nutritional and metabolic diseases",E00-E88,55-64 years,59.5,Male,M,American Indian or Alaska Native,2053,2434376,84.3
+,"Endocrine, nutritional and metabolic diseases",E00-E88,55-64 years,59.5,Male,M,Asian or Pacific Islander,3204,11144632,28.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,55-64 years,59.5,Male,M,Black or African American,27129,27295765,99.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,55-64 years,59.5,Male,M,White,116726,226948231,51.4
+,Mental and behavioural disorders,F01-F99,55-64 years,59.5,Female,F,American Indian or Alaska Native,213,2614051,8.1
+,Mental and behavioural disorders,F01-F99,55-64 years,59.5,Female,F,Asian or Pacific Islander,171,13230062,1.3
+,Mental and behavioural disorders,F01-F99,55-64 years,59.5,Female,F,Black or African American,2444,32979196,7.4
+,Mental and behavioural disorders,F01-F99,55-64 years,59.5,Female,F,White,14809,239194882,6.2
+,Mental and behavioural disorders,F01-F99,55-64 years,59.5,Male,M,American Indian or Alaska Native,626,2434376,25.7
+,Mental and behavioural disorders,F01-F99,55-64 years,59.5,Male,M,Asian or Pacific Islander,350,11144632,3.1
+,Mental and behavioural disorders,F01-F99,55-64 years,59.5,Male,M,Black or African American,6910,27295765,25.3
+,Mental and behavioural disorders,F01-F99,55-64 years,59.5,Male,M,White,34143,226948231,15
+,Diseases of the nervous system,G00-G98,55-64 years,59.5,Female,F,American Indian or Alaska Native,322,2614051,12.3
+,Diseases of the nervous system,G00-G98,55-64 years,59.5,Female,F,Asian or Pacific Islander,840,13230062,6.3
+,Diseases of the nervous system,G00-G98,55-64 years,59.5,Female,F,Black or African American,7806,32979196,23.7
+,Diseases of the nervous system,G00-G98,55-64 years,59.5,Female,F,White,48035,239194882,20.1
+,Diseases of the nervous system,G00-G98,55-64 years,59.5,Male,M,American Indian or Alaska Native,344,2434376,14.1
+,Diseases of the nervous system,G00-G98,55-64 years,59.5,Male,M,Asian or Pacific Islander,930,11144632,8.3
+,Diseases of the nervous system,G00-G98,55-64 years,59.5,Male,M,Black or African American,7736,27295765,28.3
+,Diseases of the nervous system,G00-G98,55-64 years,59.5,Male,M,White,53064,226948231,23.4
+,Diseases of the eye and adnexa,H00-H57,55-64 years,59.5,Female,F,Black or African American,7,32979196,Unreliable
+,Diseases of the eye and adnexa,H00-H57,55-64 years,59.5,Female,F,White,26,239194882,0
+,Diseases of the eye and adnexa,H00-H57,55-64 years,59.5,Male,M,Asian or Pacific Islander,1,11144632,Unreliable
+,Diseases of the eye and adnexa,H00-H57,55-64 years,59.5,Male,M,Black or African American,6,27295765,Unreliable
+,Diseases of the eye and adnexa,H00-H57,55-64 years,59.5,Male,M,White,24,226948231,0
+,Diseases of the ear and mastoid process,H60-H93,55-64 years,59.5,Female,F,American Indian or Alaska Native,2,2614051,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,55-64 years,59.5,Female,F,Asian or Pacific Islander,3,13230062,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,55-64 years,59.5,Female,F,Black or African American,12,32979196,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,55-64 years,59.5,Female,F,White,72,239194882,0
+,Diseases of the ear and mastoid process,H60-H93,55-64 years,59.5,Male,M,American Indian or Alaska Native,1,2434376,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,55-64 years,59.5,Male,M,Black or African American,8,27295765,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,55-64 years,59.5,Male,M,White,53,226948231,0
+,Diseases of the circulatory system,I00-I99,55-64 years,59.5,Female,F,American Indian or Alaska Native,3774,2614051,144.4
+,Diseases of the circulatory system,I00-I99,55-64 years,59.5,Female,F,Asian or Pacific Islander,10128,13230062,76.6
+,Diseases of the circulatory system,I00-I99,55-64 years,59.5,Female,F,Black or African American,110065,32979196,333.7
+,Diseases of the circulatory system,I00-I99,55-64 years,59.5,Female,F,White,343640,239194882,143.7
+,Diseases of the circulatory system,I00-I99,55-64 years,59.5,Male,M,American Indian or Alaska Native,6862,2434376,281.9
+,Diseases of the circulatory system,I00-I99,55-64 years,59.5,Male,M,Asian or Pacific Islander,20064,11144632,180
+,Diseases of the circulatory system,I00-I99,55-64 years,59.5,Male,M,Black or African American,171688,27295765,629
+,Diseases of the circulatory system,I00-I99,55-64 years,59.5,Male,M,White,753303,226948231,331.9
+,Diseases of the respiratory system,J00-J98,55-64 years,59.5,Female,F,American Indian or Alaska Native,1527,2614051,58.4
+,Diseases of the respiratory system,J00-J98,55-64 years,59.5,Female,F,Asian or Pacific Islander,1629,13230062,12.3
+,Diseases of the respiratory system,J00-J98,55-64 years,59.5,Female,F,Black or African American,19803,32979196,60
+,Diseases of the respiratory system,J00-J98,55-64 years,59.5,Female,F,White,142682,239194882,59.7
+,Diseases of the respiratory system,J00-J98,55-64 years,59.5,Male,M,American Indian or Alaska Native,1639,2434376,67.3
+,Diseases of the respiratory system,J00-J98,55-64 years,59.5,Male,M,Asian or Pacific Islander,2536,11144632,22.8
+,Diseases of the respiratory system,J00-J98,55-64 years,59.5,Male,M,Black or African American,24599,27295765,90.1
+,Diseases of the respiratory system,J00-J98,55-64 years,59.5,Male,M,White,165515,226948231,72.9
+,Diseases of the digestive system,K00-K92,55-64 years,59.5,Female,F,American Indian or Alaska Native,1980,2614051,75.7
+,Diseases of the digestive system,K00-K92,55-64 years,59.5,Female,F,Asian or Pacific Islander,1245,13230062,9.4
+,Diseases of the digestive system,K00-K92,55-64 years,59.5,Female,F,Black or African American,12935,32979196,39.2
+,Diseases of the digestive system,K00-K92,55-64 years,59.5,Female,F,White,80109,239194882,33.5
+,Diseases of the digestive system,K00-K92,55-64 years,59.5,Male,M,American Indian or Alaska Native,2515,2434376,103.3
+,Diseases of the digestive system,K00-K92,55-64 years,59.5,Male,M,Asian or Pacific Islander,2430,11144632,21.8
+,Diseases of the digestive system,K00-K92,55-64 years,59.5,Male,M,Black or African American,22129,27295765,81.1
+,Diseases of the digestive system,K00-K92,55-64 years,59.5,Male,M,White,149284,226948231,65.8
+,Diseases of the skin and subcutaneous tissue,L00-L98,55-64 years,59.5,Female,F,American Indian or Alaska Native,43,2614051,1.6
+,Diseases of the skin and subcutaneous tissue,L00-L98,55-64 years,59.5,Female,F,Asian or Pacific Islander,64,13230062,0.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,55-64 years,59.5,Female,F,Black or African American,1031,32979196,3.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,55-64 years,59.5,Female,F,White,2768,239194882,1.2
+,Diseases of the skin and subcutaneous tissue,L00-L98,55-64 years,59.5,Male,M,American Indian or Alaska Native,47,2434376,1.9
+,Diseases of the skin and subcutaneous tissue,L00-L98,55-64 years,59.5,Male,M,Asian or Pacific Islander,80,11144632,0.7
+,Diseases of the skin and subcutaneous tissue,L00-L98,55-64 years,59.5,Male,M,Black or African American,841,27295765,3.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,55-64 years,59.5,Male,M,White,2987,226948231,1.3
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,55-64 years,59.5,Female,F,American Indian or Alaska Native,264,2614051,10.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,55-64 years,59.5,Female,F,Asian or Pacific Islander,400,13230062,3
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,55-64 years,59.5,Female,F,Black or African American,3432,32979196,10.4
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,55-64 years,59.5,Female,F,White,13143,239194882,5.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,55-64 years,59.5,Male,M,American Indian or Alaska Native,121,2434376,5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,55-64 years,59.5,Male,M,Asian or Pacific Islander,193,11144632,1.7
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,55-64 years,59.5,Male,M,Black or African American,1923,27295765,7
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,55-64 years,59.5,Male,M,White,8351,226948231,3.7
+,Diseases of the genitourinary system,N00-N98,55-64 years,59.5,Female,F,American Indian or Alaska Native,567,2614051,21.7
+,Diseases of the genitourinary system,N00-N98,55-64 years,59.5,Female,F,Asian or Pacific Islander,894,13230062,6.8
+,Diseases of the genitourinary system,N00-N98,55-64 years,59.5,Female,F,Black or African American,12261,32979196,37.2
+,Diseases of the genitourinary system,N00-N98,55-64 years,59.5,Female,F,White,27975,239194882,11.7
+,Diseases of the genitourinary system,N00-N98,55-64 years,59.5,Male,M,American Indian or Alaska Native,498,2434376,20.5
+,Diseases of the genitourinary system,N00-N98,55-64 years,59.5,Male,M,Asian or Pacific Islander,1040,11144632,9.3
+,Diseases of the genitourinary system,N00-N98,55-64 years,59.5,Male,M,Black or African American,13947,27295765,51.1
+,Diseases of the genitourinary system,N00-N98,55-64 years,59.5,Male,M,White,33261,226948231,14.7
+,"Pregnancy, childbirth and the puerperium",O00-O99,55-64 years,59.5,Female,F,Asian or Pacific Islander,1,13230062,Unreliable
+,"Pregnancy, childbirth and the puerperium",O00-O99,55-64 years,59.5,Female,F,Black or African American,7,32979196,Unreliable
+,"Pregnancy, childbirth and the puerperium",O00-O99,55-64 years,59.5,Female,F,White,30,239194882,0
+,Certain conditions originating in the perinatal period,P00-P96,55-64 years,59.5,Female,F,Black or African American,1,32979196,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,55-64 years,59.5,Female,F,White,16,239194882,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,55-64 years,59.5,Male,M,Asian or Pacific Islander,1,11144632,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,55-64 years,59.5,Male,M,Black or African American,1,27295765,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,55-64 years,59.5,Male,M,White,23,226948231,0
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,55-64 years,59.5,Female,F,American Indian or Alaska Native,34,2614051,1.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,55-64 years,59.5,Female,F,Asian or Pacific Islander,91,13230062,0.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,55-64 years,59.5,Female,F,Black or African American,548,32979196,1.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,55-64 years,59.5,Female,F,White,5461,239194882,2.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,55-64 years,59.5,Male,M,American Indian or Alaska Native,36,2434376,1.5
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,55-64 years,59.5,Male,M,Asian or Pacific Islander,90,11144632,0.8
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,55-64 years,59.5,Male,M,Black or African American,599,27295765,2.2
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,55-64 years,59.5,Male,M,White,5877,226948231,2.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,55-64 years,59.5,Female,F,American Indian or Alaska Native,147,2614051,5.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,55-64 years,59.5,Female,F,Asian or Pacific Islander,224,13230062,1.7
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,55-64 years,59.5,Female,F,Black or African American,2821,32979196,8.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,55-64 years,59.5,Female,F,White,12688,239194882,5.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,55-64 years,59.5,Male,M,American Indian or Alaska Native,206,2434376,8.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,55-64 years,59.5,Male,M,Asian or Pacific Islander,322,11144632,2.9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,55-64 years,59.5,Male,M,Black or African American,4857,27295765,17.8
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,55-64 years,59.5,Male,M,White,20813,226948231,9.2
+,Codes for special purposes,U00-U99,55-64 years,59.5,Female,F,Asian or Pacific Islander,3,13230062,Unreliable
+,Codes for special purposes,U00-U99,55-64 years,59.5,Female,F,Black or African American,10,32979196,Unreliable
+,Codes for special purposes,U00-U99,55-64 years,59.5,Female,F,White,61,239194882,0
+,Codes for special purposes,U00-U99,55-64 years,59.5,Male,M,Asian or Pacific Islander,10,11144632,Unreliable
+,Codes for special purposes,U00-U99,55-64 years,59.5,Male,M,Black or African American,12,27295765,Unreliable
+,Codes for special purposes,U00-U99,55-64 years,59.5,Male,M,White,153,226948231,0.1
+,External causes of morbidity and mortality,V01-Y89,55-64 years,59.5,Female,F,American Indian or Alaska Native,1068,2614051,40.9
+,External causes of morbidity and mortality,V01-Y89,55-64 years,59.5,Female,F,Asian or Pacific Islander,2181,13230062,16.5
+,External causes of morbidity and mortality,V01-Y89,55-64 years,59.5,Female,F,Black or African American,10426,32979196,31.6
+,External causes of morbidity and mortality,V01-Y89,55-64 years,59.5,Female,F,White,84412,239194882,35.3
+,External causes of morbidity and mortality,V01-Y89,55-64 years,59.5,Male,M,American Indian or Alaska Native,2458,2434376,101
+,External causes of morbidity and mortality,V01-Y89,55-64 years,59.5,Male,M,Asian or Pacific Islander,4064,11144632,36.5
+,External causes of morbidity and mortality,V01-Y89,55-64 years,59.5,Male,M,Black or African American,28218,27295765,103.4
+,External causes of morbidity and mortality,V01-Y89,55-64 years,59.5,Male,M,White,197764,226948231,87.1
+,Certain infectious and parasitic diseases,A00-B99,65-74 years,69.5,Female,F,American Indian or Alaska Native,719,1344564,53.5
+,Certain infectious and parasitic diseases,A00-B99,65-74 years,69.5,Female,F,Asian or Pacific Islander,2022,7700908,26.3
+,Certain infectious and parasitic diseases,A00-B99,65-74 years,69.5,Female,F,Black or African American,15671,19590670,80
+,Certain infectious and parasitic diseases,A00-B99,65-74 years,69.5,Female,F,White,65332,163851156,39.9
+,Certain infectious and parasitic diseases,A00-B99,65-74 years,69.5,Male,M,American Indian or Alaska Native,673,1167409,57.6
+,Certain infectious and parasitic diseases,A00-B99,65-74 years,69.5,Male,M,Asian or Pacific Islander,2260,6242343,36.2
+,Certain infectious and parasitic diseases,A00-B99,65-74 years,69.5,Male,M,Black or African American,17582,14403441,122.1
+,Certain infectious and parasitic diseases,A00-B99,65-74 years,69.5,Male,M,White,72197,143318927,50.4
+,Neoplasms,C00-D48,65-74 years,69.5,Female,F,American Indian or Alaska Native,5745,1344564,427.3
+,Neoplasms,C00-D48,65-74 years,69.5,Female,F,Asian or Pacific Islander,24617,7700908,319.7
+,Neoplasms,C00-D48,65-74 years,69.5,Female,F,Black or African American,130653,19590670,666.9
+,Neoplasms,C00-D48,65-74 years,69.5,Female,F,White,975325,163851156,595.3
+,Neoplasms,C00-D48,65-74 years,69.5,Male,M,American Indian or Alaska Native,6793,1167409,581.9
+,Neoplasms,C00-D48,65-74 years,69.5,Male,M,Asian or Pacific Islander,28599,6242343,458.1
+,Neoplasms,C00-D48,65-74 years,69.5,Male,M,Black or African American,158435,14403441,1100
+,Neoplasms,C00-D48,65-74 years,69.5,Male,M,White,1206266,143318927,841.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,65-74 years,69.5,Female,F,American Indian or Alaska Native,92,1344564,6.8
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,65-74 years,69.5,Female,F,Asian or Pacific Islander,271,7700908,3.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,65-74 years,69.5,Female,F,Black or African American,2888,19590670,14.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,65-74 years,69.5,Female,F,White,10231,163851156,6.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,65-74 years,69.5,Male,M,American Indian or Alaska Native,61,1167409,5.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,65-74 years,69.5,Male,M,Asian or Pacific Islander,268,6242343,4.3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,65-74 years,69.5,Male,M,Black or African American,2000,14403441,13.9
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,65-74 years,69.5,Male,M,White,9598,143318927,6.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,65-74 years,69.5,Female,F,American Indian or Alaska Native,2242,1344564,166.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,65-74 years,69.5,Female,F,Asian or Pacific Islander,3721,7700908,48.3
+,"Endocrine, nutritional and metabolic diseases",E00-E88,65-74 years,69.5,Female,F,Black or African American,33268,19590670,169.8
+,"Endocrine, nutritional and metabolic diseases",E00-E88,65-74 years,69.5,Female,F,White,125138,163851156,76.4
+,"Endocrine, nutritional and metabolic diseases",E00-E88,65-74 years,69.5,Male,M,American Indian or Alaska Native,1974,1167409,169.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,65-74 years,69.5,Male,M,Asian or Pacific Islander,4350,6242343,69.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,65-74 years,69.5,Male,M,Black or African American,29258,14403441,203.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,65-74 years,69.5,Male,M,White,156175,143318927,109
+,Mental and behavioural disorders,F01-F99,65-74 years,69.5,Female,F,American Indian or Alaska Native,245,1344564,18.2
+,Mental and behavioural disorders,F01-F99,65-74 years,69.5,Female,F,Asian or Pacific Islander,517,7700908,6.7
+,Mental and behavioural disorders,F01-F99,65-74 years,69.5,Female,F,Black or African American,5644,19590670,28.8
+,Mental and behavioural disorders,F01-F99,65-74 years,69.5,Female,F,White,38250,163851156,23.3
+,Mental and behavioural disorders,F01-F99,65-74 years,69.5,Male,M,American Indian or Alaska Native,476,1167409,40.8
+,Mental and behavioural disorders,F01-F99,65-74 years,69.5,Male,M,Asian or Pacific Islander,601,6242343,9.6
+,Mental and behavioural disorders,F01-F99,65-74 years,69.5,Male,M,Black or African American,7818,14403441,54.3
+,Mental and behavioural disorders,F01-F99,65-74 years,69.5,Male,M,White,44777,143318927,31.2
+,Diseases of the nervous system,G00-G98,65-74 years,69.5,Female,F,American Indian or Alaska Native,539,1344564,40.1
+,Diseases of the nervous system,G00-G98,65-74 years,69.5,Female,F,Asian or Pacific Islander,1711,7700908,22.2
+,Diseases of the nervous system,G00-G98,65-74 years,69.5,Female,F,Black or African American,11168,19590670,57
+,Diseases of the nervous system,G00-G98,65-74 years,69.5,Female,F,White,98441,163851156,60.1
+,Diseases of the nervous system,G00-G98,65-74 years,69.5,Male,M,American Indian or Alaska Native,501,1167409,42.9
+,Diseases of the nervous system,G00-G98,65-74 years,69.5,Male,M,Asian or Pacific Islander,1819,6242343,29.1
+,Diseases of the nervous system,G00-G98,65-74 years,69.5,Male,M,Black or African American,10134,14403441,70.4
+,Diseases of the nervous system,G00-G98,65-74 years,69.5,Male,M,White,107591,143318927,75.1
+,Diseases of the eye and adnexa,H00-H57,65-74 years,69.5,Female,F,American Indian or Alaska Native,1,1344564,Unreliable
+,Diseases of the eye and adnexa,H00-H57,65-74 years,69.5,Female,F,Asian or Pacific Islander,2,7700908,Unreliable
+,Diseases of the eye and adnexa,H00-H57,65-74 years,69.5,Female,F,Black or African American,4,19590670,Unreliable
+,Diseases of the eye and adnexa,H00-H57,65-74 years,69.5,Female,F,White,19,163851156,Unreliable
+,Diseases of the eye and adnexa,H00-H57,65-74 years,69.5,Male,M,Asian or Pacific Islander,1,6242343,Unreliable
+,Diseases of the eye and adnexa,H00-H57,65-74 years,69.5,Male,M,Black or African American,3,14403441,Unreliable
+,Diseases of the eye and adnexa,H00-H57,65-74 years,69.5,Male,M,White,36,143318927,0
+,Diseases of the ear and mastoid process,H60-H93,65-74 years,69.5,Female,F,Asian or Pacific Islander,3,7700908,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,65-74 years,69.5,Female,F,Black or African American,16,19590670,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,65-74 years,69.5,Female,F,White,56,163851156,0
+,Diseases of the ear and mastoid process,H60-H93,65-74 years,69.5,Male,M,Asian or Pacific Islander,1,6242343,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,65-74 years,69.5,Male,M,Black or African American,8,14403441,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,65-74 years,69.5,Male,M,White,72,143318927,0.1
+,Diseases of the circulatory system,I00-I99,65-74 years,69.5,Female,F,American Indian or Alaska Native,5448,1344564,405.2
+,Diseases of the circulatory system,I00-I99,65-74 years,69.5,Female,F,Asian or Pacific Islander,19790,7700908,257
+,Diseases of the circulatory system,I00-I99,65-74 years,69.5,Female,F,Black or African American,152360,19590670,777.7
+,Diseases of the circulatory system,I00-I99,65-74 years,69.5,Female,F,White,708443,163851156,432.4
+,Diseases of the circulatory system,I00-I99,65-74 years,69.5,Male,M,American Indian or Alaska Native,7775,1167409,666
+,Diseases of the circulatory system,I00-I99,65-74 years,69.5,Male,M,Asian or Pacific Islander,27637,6242343,442.7
+,Diseases of the circulatory system,I00-I99,65-74 years,69.5,Male,M,Black or African American,182648,14403441,1268.1
+,Diseases of the circulatory system,I00-I99,65-74 years,69.5,Male,M,White,1119430,143318927,781.1
+,Diseases of the respiratory system,J00-J98,65-74 years,69.5,Female,F,American Indian or Alaska Native,2427,1344564,180.5
+,Diseases of the respiratory system,J00-J98,65-74 years,69.5,Female,F,Asian or Pacific Islander,3844,7700908,49.9
+,Diseases of the respiratory system,J00-J98,65-74 years,69.5,Female,F,Black or African American,28844,19590670,147.2
+,Diseases of the respiratory system,J00-J98,65-74 years,69.5,Female,F,White,337413,163851156,205.9
+,Diseases of the respiratory system,J00-J98,65-74 years,69.5,Male,M,American Indian or Alaska Native,2472,1167409,211.8
+,Diseases of the respiratory system,J00-J98,65-74 years,69.5,Male,M,Asian or Pacific Islander,5939,6242343,95.1
+,Diseases of the respiratory system,J00-J98,65-74 years,69.5,Male,M,Black or African American,36866,14403441,256
+,Diseases of the respiratory system,J00-J98,65-74 years,69.5,Male,M,White,374904,143318927,261.6
+,Diseases of the digestive system,K00-K92,65-74 years,69.5,Female,F,American Indian or Alaska Native,1484,1344564,110.4
+,Diseases of the digestive system,K00-K92,65-74 years,69.5,Female,F,Asian or Pacific Islander,2215,7700908,28.8
+,Diseases of the digestive system,K00-K92,65-74 years,69.5,Female,F,Black or African American,12437,19590670,63.5
+,Diseases of the digestive system,K00-K92,65-74 years,69.5,Female,F,White,106974,163851156,65.3
+,Diseases of the digestive system,K00-K92,65-74 years,69.5,Male,M,American Indian or Alaska Native,1369,1167409,117.3
+,Diseases of the digestive system,K00-K92,65-74 years,69.5,Male,M,Asian or Pacific Islander,2547,6242343,40.8
+,Diseases of the digestive system,K00-K92,65-74 years,69.5,Male,M,Black or African American,15064,14403441,104.6
+,Diseases of the digestive system,K00-K92,65-74 years,69.5,Male,M,White,129604,143318927,90.4
+,Diseases of the skin and subcutaneous tissue,L00-L98,65-74 years,69.5,Female,F,American Indian or Alaska Native,57,1344564,4.2
+,Diseases of the skin and subcutaneous tissue,L00-L98,65-74 years,69.5,Female,F,Asian or Pacific Islander,95,7700908,1.2
+,Diseases of the skin and subcutaneous tissue,L00-L98,65-74 years,69.5,Female,F,Black or African American,1388,19590670,7.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,65-74 years,69.5,Female,F,White,4478,163851156,2.7
+,Diseases of the skin and subcutaneous tissue,L00-L98,65-74 years,69.5,Male,M,American Indian or Alaska Native,52,1167409,4.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,65-74 years,69.5,Male,M,Asian or Pacific Islander,101,6242343,1.6
+,Diseases of the skin and subcutaneous tissue,L00-L98,65-74 years,69.5,Male,M,Black or African American,1095,14403441,7.6
+,Diseases of the skin and subcutaneous tissue,L00-L98,65-74 years,69.5,Male,M,White,4036,143318927,2.8
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,65-74 years,69.5,Female,F,American Indian or Alaska Native,274,1344564,20.4
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,65-74 years,69.5,Female,F,Asian or Pacific Islander,501,7700908,6.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,65-74 years,69.5,Female,F,Black or African American,2878,19590670,14.7
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,65-74 years,69.5,Female,F,White,21636,163851156,13.2
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,65-74 years,69.5,Male,M,American Indian or Alaska Native,138,1167409,11.8
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,65-74 years,69.5,Male,M,Asian or Pacific Islander,272,6242343,4.4
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,65-74 years,69.5,Male,M,Black or African American,1822,14403441,12.6
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,65-74 years,69.5,Male,M,White,12564,143318927,8.8
+,Diseases of the genitourinary system,N00-N98,65-74 years,69.5,Female,F,American Indian or Alaska Native,848,1344564,63.1
+,Diseases of the genitourinary system,N00-N98,65-74 years,69.5,Female,F,Asian or Pacific Islander,1830,7700908,23.8
+,Diseases of the genitourinary system,N00-N98,65-74 years,69.5,Female,F,Black or African American,19199,19590670,98
+,Diseases of the genitourinary system,N00-N98,65-74 years,69.5,Female,F,White,61582,163851156,37.6
+,Diseases of the genitourinary system,N00-N98,65-74 years,69.5,Male,M,American Indian or Alaska Native,638,1167409,54.7
+,Diseases of the genitourinary system,N00-N98,65-74 years,69.5,Male,M,Asian or Pacific Islander,1873,6242343,30
+,Diseases of the genitourinary system,N00-N98,65-74 years,69.5,Male,M,Black or African American,17458,14403441,121.2
+,Diseases of the genitourinary system,N00-N98,65-74 years,69.5,Male,M,White,65815,143318927,45.9
+,"Pregnancy, childbirth and the puerperium",O00-O99,65-74 years,69.5,Female,F,Black or African American,1,19590670,Unreliable
+,"Pregnancy, childbirth and the puerperium",O00-O99,65-74 years,69.5,Female,F,White,11,163851156,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,65-74 years,69.5,Female,F,White,9,163851156,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,65-74 years,69.5,Male,M,Asian or Pacific Islander,2,6242343,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,65-74 years,69.5,Male,M,Black or African American,5,14403441,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,65-74 years,69.5,Male,M,White,16,143318927,Unreliable
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,65-74 years,69.5,Female,F,American Indian or Alaska Native,17,1344564,Unreliable
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,65-74 years,69.5,Female,F,Asian or Pacific Islander,86,7700908,1.1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,65-74 years,69.5,Female,F,Black or African American,338,19590670,1.7
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,65-74 years,69.5,Female,F,White,3275,163851156,2
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,65-74 years,69.5,Male,M,American Indian or Alaska Native,23,1167409,2
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,65-74 years,69.5,Male,M,Asian or Pacific Islander,58,6242343,0.9
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,65-74 years,69.5,Male,M,Black or African American,290,14403441,2
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,65-74 years,69.5,Male,M,White,3170,143318927,2.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,65-74 years,69.5,Female,F,American Indian or Alaska Native,121,1344564,9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,65-74 years,69.5,Female,F,Asian or Pacific Islander,300,7700908,3.9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,65-74 years,69.5,Female,F,Black or African American,3278,19590670,16.7
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,65-74 years,69.5,Female,F,White,18149,163851156,11.1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,65-74 years,69.5,Male,M,American Indian or Alaska Native,163,1167409,14
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,65-74 years,69.5,Male,M,Asian or Pacific Islander,347,6242343,5.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,65-74 years,69.5,Male,M,Black or African American,4021,14403441,27.9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,65-74 years,69.5,Male,M,White,22658,143318927,15.8
+,Codes for special purposes,U00-U99,65-74 years,69.5,Female,F,Black or African American,3,19590670,Unreliable
+,Codes for special purposes,U00-U99,65-74 years,69.5,Female,F,White,9,163851156,Unreliable
+,Codes for special purposes,U00-U99,65-74 years,69.5,Male,M,Black or African American,1,14403441,Unreliable
+,Codes for special purposes,U00-U99,65-74 years,69.5,Male,M,White,29,143318927,0
+,External causes of morbidity and mortality,V01-Y89,65-74 years,69.5,Female,F,American Indian or Alaska Native,664,1344564,49.4
+,External causes of morbidity and mortality,V01-Y89,65-74 years,69.5,Female,F,Asian or Pacific Islander,2197,7700908,28.5
+,External causes of morbidity and mortality,V01-Y89,65-74 years,69.5,Female,F,Black or African American,7287,19590670,37.2
+,External causes of morbidity and mortality,V01-Y89,65-74 years,69.5,Female,F,White,66453,163851156,40.6
+,External causes of morbidity and mortality,V01-Y89,65-74 years,69.5,Male,M,American Indian or Alaska Native,1214,1167409,104
+,External causes of morbidity and mortality,V01-Y89,65-74 years,69.5,Male,M,Asian or Pacific Islander,3059,6242343,49
+,External causes of morbidity and mortality,V01-Y89,65-74 years,69.5,Male,M,Black or African American,14054,14403441,97.6
+,External causes of morbidity and mortality,V01-Y89,65-74 years,69.5,Male,M,White,132004,143318927,92.1
+,Certain infectious and parasitic diseases,A00-B99,75-84 years,79.5,Female,F,American Indian or Alaska Native,688,638910,107.7
+,Certain infectious and parasitic diseases,A00-B99,75-84 years,79.5,Female,F,Asian or Pacific Islander,2671,4058653,65.8
+,Certain infectious and parasitic diseases,A00-B99,75-84 years,79.5,Female,F,Black or African American,18283,11227709,162.8
+,Certain infectious and parasitic diseases,A00-B99,75-84 years,79.5,Female,F,White,115297,114287541,100.9
+,Certain infectious and parasitic diseases,A00-B99,75-84 years,79.5,Male,M,American Indian or Alaska Native,505,452152,111.7
+,Certain infectious and parasitic diseases,A00-B99,75-84 years,79.5,Male,M,Asian or Pacific Islander,2591,2904785,89.2
+,Certain infectious and parasitic diseases,A00-B99,75-84 years,79.5,Male,M,Black or African American,14385,6541778,219.9
+,Certain infectious and parasitic diseases,A00-B99,75-84 years,79.5,Male,M,White,99050,81637027,121.3
+,Neoplasms,C00-D48,75-84 years,79.5,Female,F,American Indian or Alaska Native,4678,638910,732.2
+,Neoplasms,C00-D48,75-84 years,79.5,Female,F,Asian or Pacific Islander,25922,4058653,638.7
+,Neoplasms,C00-D48,75-84 years,79.5,Female,F,Black or African American,120289,11227709,1071.4
+,Neoplasms,C00-D48,75-84 years,79.5,Female,F,White,1183226,114287541,1035.3
+,Neoplasms,C00-D48,75-84 years,79.5,Male,M,American Indian or Alaska Native,4966,452152,1098.3
+,Neoplasms,C00-D48,75-84 years,79.5,Male,M,Asian or Pacific Islander,28977,2904785,997.6
+,Neoplasms,C00-D48,75-84 years,79.5,Male,M,Black or African American,127663,6541778,1951.5
+,Neoplasms,C00-D48,75-84 years,79.5,Male,M,White,1318491,81637027,1615.1
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,75-84 years,79.5,Female,F,American Indian or Alaska Native,87,638910,13.6
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,75-84 years,79.5,Female,F,Asian or Pacific Islander,339,4058653,8.4
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,75-84 years,79.5,Female,F,Black or African American,2697,11227709,24
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,75-84 years,79.5,Female,F,White,18586,114287541,16.3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,75-84 years,79.5,Male,M,American Indian or Alaska Native,59,452152,13
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,75-84 years,79.5,Male,M,Asian or Pacific Islander,362,2904785,12.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,75-84 years,79.5,Male,M,Black or African American,1650,6541778,25.2
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,75-84 years,79.5,Male,M,White,14562,81637027,17.8
+,"Endocrine, nutritional and metabolic diseases",E00-E88,75-84 years,79.5,Female,F,American Indian or Alaska Native,2016,638910,315.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,75-84 years,79.5,Female,F,Asian or Pacific Islander,6109,4058653,150.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,75-84 years,79.5,Female,F,Black or African American,39384,11227709,350.8
+,"Endocrine, nutritional and metabolic diseases",E00-E88,75-84 years,79.5,Female,F,White,207154,114287541,181.3
+,"Endocrine, nutritional and metabolic diseases",E00-E88,75-84 years,79.5,Male,M,American Indian or Alaska Native,1479,452152,327.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,75-84 years,79.5,Male,M,Asian or Pacific Islander,4917,2904785,169.3
+,"Endocrine, nutritional and metabolic diseases",E00-E88,75-84 years,79.5,Male,M,Black or African American,25320,6541778,387.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,75-84 years,79.5,Male,M,White,187995,81637027,230.3
+,Mental and behavioural disorders,F01-F99,75-84 years,79.5,Female,F,American Indian or Alaska Native,796,638910,124.6
+,Mental and behavioural disorders,F01-F99,75-84 years,79.5,Female,F,Asian or Pacific Islander,2927,4058653,72.1
+,Mental and behavioural disorders,F01-F99,75-84 years,79.5,Female,F,Black or African American,21846,11227709,194.6
+,Mental and behavioural disorders,F01-F99,75-84 years,79.5,Female,F,White,209484,114287541,183.3
+,Mental and behavioural disorders,F01-F99,75-84 years,79.5,Male,M,American Indian or Alaska Native,633,452152,140
+,Mental and behavioural disorders,F01-F99,75-84 years,79.5,Male,M,Asian or Pacific Islander,2067,2904785,71.2
+,Mental and behavioural disorders,F01-F99,75-84 years,79.5,Male,M,Black or African American,15170,6541778,231.9
+,Mental and behavioural disorders,F01-F99,75-84 years,79.5,Male,M,White,141661,81637027,173.5
+,Diseases of the nervous system,G00-G98,75-84 years,79.5,Female,F,American Indian or Alaska Native,1137,638910,178
+,Diseases of the nervous system,G00-G98,75-84 years,79.5,Female,F,Asian or Pacific Islander,4675,4058653,115.2
+,Diseases of the nervous system,G00-G98,75-84 years,79.5,Female,F,Black or African American,25496,11227709,227.1
+,Diseases of the nervous system,G00-G98,75-84 years,79.5,Female,F,White,334384,114287541,292.6
+,Diseases of the nervous system,G00-G98,75-84 years,79.5,Male,M,American Indian or Alaska Native,867,452152,191.7
+,Diseases of the nervous system,G00-G98,75-84 years,79.5,Male,M,Asian or Pacific Islander,4097,2904785,141
+,Diseases of the nervous system,G00-G98,75-84 years,79.5,Male,M,Black or African American,16889,6541778,258.2
+,Diseases of the nervous system,G00-G98,75-84 years,79.5,Male,M,White,277262,81637027,339.6
+,Diseases of the eye and adnexa,H00-H57,75-84 years,79.5,Female,F,American Indian or Alaska Native,1,638910,Unreliable
+,Diseases of the eye and adnexa,H00-H57,75-84 years,79.5,Female,F,Black or African American,14,11227709,Unreliable
+,Diseases of the eye and adnexa,H00-H57,75-84 years,79.5,Female,F,White,71,114287541,0.1
+,Diseases of the eye and adnexa,H00-H57,75-84 years,79.5,Male,M,Asian or Pacific Islander,2,2904785,Unreliable
+,Diseases of the eye and adnexa,H00-H57,75-84 years,79.5,Male,M,Black or African American,9,6541778,Unreliable
+,Diseases of the eye and adnexa,H00-H57,75-84 years,79.5,Male,M,White,45,81637027,0.1
+,Diseases of the ear and mastoid process,H60-H93,75-84 years,79.5,Female,F,Asian or Pacific Islander,5,4058653,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,75-84 years,79.5,Female,F,Black or African American,8,11227709,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,75-84 years,79.5,Female,F,White,70,114287541,0.1
+,Diseases of the ear and mastoid process,H60-H93,75-84 years,79.5,Male,M,Asian or Pacific Islander,3,2904785,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,75-84 years,79.5,Male,M,Black or African American,9,6541778,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,75-84 years,79.5,Male,M,White,83,81637027,0.1
+,Diseases of the circulatory system,I00-I99,75-84 years,79.5,Female,F,American Indian or Alaska Native,7496,638910,1173.2
+,Diseases of the circulatory system,I00-I99,75-84 years,79.5,Female,F,Asian or Pacific Islander,39439,4058653,971.7
+,Diseases of the circulatory system,I00-I99,75-84 years,79.5,Female,F,Black or African American,228391,11227709,2034.2
+,Diseases of the circulatory system,I00-I99,75-84 years,79.5,Female,F,White,1792715,114287541,1568.6
+,Diseases of the circulatory system,I00-I99,75-84 years,79.5,Male,M,American Indian or Alaska Native,7152,452152,1581.8
+,Diseases of the circulatory system,I00-I99,75-84 years,79.5,Male,M,Asian or Pacific Islander,38862,2904785,1337.9
+,Diseases of the circulatory system,I00-I99,75-84 years,79.5,Male,M,Black or African American,178937,6541778,2735.3
+,Diseases of the circulatory system,I00-I99,75-84 years,79.5,Male,M,White,1802692,81637027,2208.2
+,Diseases of the respiratory system,J00-J98,75-84 years,79.5,Female,F,American Indian or Alaska Native,2738,638910,428.5
+,Diseases of the respiratory system,J00-J98,75-84 years,79.5,Female,F,Asian or Pacific Islander,8898,4058653,219.2
+,Diseases of the respiratory system,J00-J98,75-84 years,79.5,Female,F,Black or African American,39814,11227709,354.6
+,Diseases of the respiratory system,J00-J98,75-84 years,79.5,Female,F,White,632192,114287541,553.2
+,Diseases of the respiratory system,J00-J98,75-84 years,79.5,Male,M,American Indian or Alaska Native,2780,452152,614.8
+,Diseases of the respiratory system,J00-J98,75-84 years,79.5,Male,M,Asian or Pacific Islander,12256,2904785,421.9
+,Diseases of the respiratory system,J00-J98,75-84 years,79.5,Male,M,Black or African American,42875,6541778,655.4
+,Diseases of the respiratory system,J00-J98,75-84 years,79.5,Male,M,White,627558,81637027,768.7
+,Diseases of the digestive system,K00-K92,75-84 years,79.5,Female,F,American Indian or Alaska Native,1117,638910,174.8
+,Diseases of the digestive system,K00-K92,75-84 years,79.5,Female,F,Asian or Pacific Islander,3384,4058653,83.4
+,Diseases of the digestive system,K00-K92,75-84 years,79.5,Female,F,Black or African American,14602,11227709,130.1
+,Diseases of the digestive system,K00-K92,75-84 years,79.5,Female,F,White,170159,114287541,148.9
+,Diseases of the digestive system,K00-K92,75-84 years,79.5,Male,M,American Indian or Alaska Native,803,452152,177.6
+,Diseases of the digestive system,K00-K92,75-84 years,79.5,Male,M,Asian or Pacific Islander,2902,2904785,99.9
+,Diseases of the digestive system,K00-K92,75-84 years,79.5,Male,M,Black or African American,11157,6541778,170.5
+,Diseases of the digestive system,K00-K92,75-84 years,79.5,Male,M,White,137172,81637027,168
+,Diseases of the skin and subcutaneous tissue,L00-L98,75-84 years,79.5,Female,F,American Indian or Alaska Native,69,638910,10.8
+,Diseases of the skin and subcutaneous tissue,L00-L98,75-84 years,79.5,Female,F,Asian or Pacific Islander,155,4058653,3.8
+,Diseases of the skin and subcutaneous tissue,L00-L98,75-84 years,79.5,Female,F,Black or African American,2252,11227709,20.1
+,Diseases of the skin and subcutaneous tissue,L00-L98,75-84 years,79.5,Female,F,White,8802,114287541,7.7
+,Diseases of the skin and subcutaneous tissue,L00-L98,75-84 years,79.5,Male,M,American Indian or Alaska Native,40,452152,8.8
+,Diseases of the skin and subcutaneous tissue,L00-L98,75-84 years,79.5,Male,M,Asian or Pacific Islander,129,2904785,4.4
+,Diseases of the skin and subcutaneous tissue,L00-L98,75-84 years,79.5,Male,M,Black or African American,1244,6541778,19
+,Diseases of the skin and subcutaneous tissue,L00-L98,75-84 years,79.5,Male,M,White,6121,81637027,7.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,75-84 years,79.5,Female,F,American Indian or Alaska Native,263,638910,41.2
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,75-84 years,79.5,Female,F,Asian or Pacific Islander,678,4058653,16.7
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,75-84 years,79.5,Female,F,Black or African American,3036,11227709,27
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,75-84 years,79.5,Female,F,White,38195,114287541,33.4
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,75-84 years,79.5,Male,M,American Indian or Alaska Native,105,452152,23.2
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,75-84 years,79.5,Male,M,Asian or Pacific Islander,322,2904785,11.1
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,75-84 years,79.5,Male,M,Black or African American,1741,6541778,26.6
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,75-84 years,79.5,Male,M,White,18191,81637027,22.3
+,Diseases of the genitourinary system,N00-N98,75-84 years,79.5,Female,F,American Indian or Alaska Native,907,638910,142
+,Diseases of the genitourinary system,N00-N98,75-84 years,79.5,Female,F,Asian or Pacific Islander,3287,4058653,81
+,Diseases of the genitourinary system,N00-N98,75-84 years,79.5,Female,F,Black or African American,25647,11227709,228.4
+,Diseases of the genitourinary system,N00-N98,75-84 years,79.5,Female,F,White,140007,114287541,122.5
+,Diseases of the genitourinary system,N00-N98,75-84 years,79.5,Male,M,American Indian or Alaska Native,622,452152,137.6
+,Diseases of the genitourinary system,N00-N98,75-84 years,79.5,Male,M,Asian or Pacific Islander,2845,2904785,97.9
+,Diseases of the genitourinary system,N00-N98,75-84 years,79.5,Male,M,Black or African American,18900,6541778,288.9
+,Diseases of the genitourinary system,N00-N98,75-84 years,79.5,Male,M,White,132051,81637027,161.8
+,"Pregnancy, childbirth and the puerperium",O00-O99,75-84 years,79.5,Female,F,Asian or Pacific Islander,1,4058653,Unreliable
+,"Pregnancy, childbirth and the puerperium",O00-O99,75-84 years,79.5,Female,F,Black or African American,1,11227709,Unreliable
+,"Pregnancy, childbirth and the puerperium",O00-O99,75-84 years,79.5,Female,F,White,3,114287541,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,75-84 years,79.5,Female,F,Black or African American,1,11227709,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,75-84 years,79.5,Female,F,White,6,114287541,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,75-84 years,79.5,Male,M,Black or African American,3,6541778,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,75-84 years,79.5,Male,M,White,10,81637027,Unreliable
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,75-84 years,79.5,Female,F,American Indian or Alaska Native,13,638910,Unreliable
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,75-84 years,79.5,Female,F,Asian or Pacific Islander,74,4058653,1.8
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,75-84 years,79.5,Female,F,Black or African American,258,11227709,2.3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,75-84 years,79.5,Female,F,White,3458,114287541,3
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,75-84 years,79.5,Male,M,American Indian or Alaska Native,7,452152,Unreliable
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,75-84 years,79.5,Male,M,Asian or Pacific Islander,60,2904785,2.1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,75-84 years,79.5,Male,M,Black or African American,227,6541778,3.5
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,75-84 years,79.5,Male,M,White,2692,81637027,3.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,75-84 years,79.5,Female,F,American Indian or Alaska Native,160,638910,25
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,75-84 years,79.5,Female,F,Asian or Pacific Islander,676,4058653,16.7
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,75-84 years,79.5,Female,F,Black or African American,5513,11227709,49.1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,75-84 years,79.5,Female,F,White,48230,114287541,42.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,75-84 years,79.5,Male,M,American Indian or Alaska Native,154,452152,34.1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,75-84 years,79.5,Male,M,Asian or Pacific Islander,507,2904785,17.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,75-84 years,79.5,Male,M,Black or African American,4188,6541778,64
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,75-84 years,79.5,Male,M,White,37188,81637027,45.6
+,Codes for special purposes,U00-U99,75-84 years,79.5,Female,F,White,5,114287541,Unreliable
+,Codes for special purposes,U00-U99,75-84 years,79.5,Male,M,Black or African American,2,6541778,Unreliable
+,Codes for special purposes,U00-U99,75-84 years,79.5,Male,M,White,2,81637027,Unreliable
+,External causes of morbidity and mortality,V01-Y89,75-84 years,79.5,Female,F,American Indian or Alaska Native,599,638910,93.8
+,External causes of morbidity and mortality,V01-Y89,75-84 years,79.5,Female,F,Asian or Pacific Islander,2847,4058653,70.1
+,External causes of morbidity and mortality,V01-Y89,75-84 years,79.5,Female,F,Black or African American,7734,11227709,68.9
+,External causes of morbidity and mortality,V01-Y89,75-84 years,79.5,Female,F,White,112532,114287541,98.5
+,External causes of morbidity and mortality,V01-Y89,75-84 years,79.5,Male,M,American Indian or Alaska Native,781,452152,172.7
+,External causes of morbidity and mortality,V01-Y89,75-84 years,79.5,Male,M,Asian or Pacific Islander,3169,2904785,109.1
+,External causes of morbidity and mortality,V01-Y89,75-84 years,79.5,Male,M,Black or African American,9715,6541778,148.5
+,External causes of morbidity and mortality,V01-Y89,75-84 years,79.5,Male,M,White,150606,81637027,184.5
+,Certain infectious and parasitic diseases,A00-B99,85+ years,85,Female,F,American Indian or Alaska Native,436,220838,197.4
+,Certain infectious and parasitic diseases,A00-B99,85+ years,85,Female,F,Asian or Pacific Islander,2159,1394289,154.8
+,Certain infectious and parasitic diseases,A00-B99,85+ years,85,Female,F,Black or African American,16723,4530329,369.1
+,Certain infectious and parasitic diseases,A00-B99,85+ years,85,Female,F,White,135361,53094990,254.9
+,Certain infectious and parasitic diseases,A00-B99,85+ years,85,Male,M,American Indian or Alaska Native,236,112237,210.3
+,Certain infectious and parasitic diseases,A00-B99,85+ years,85,Male,M,Asian or Pacific Islander,1749,824475,212.1
+,Certain infectious and parasitic diseases,A00-B99,85+ years,85,Male,M,Black or African American,7832,1747405,448.2
+,Certain infectious and parasitic diseases,A00-B99,85+ years,85,Male,M,White,73219,24932434,293.7
+,Neoplasms,C00-D48,85+ years,85,Female,F,American Indian or Alaska Native,2082,220838,942.8
+,Neoplasms,C00-D48,85+ years,85,Female,F,Asian or Pacific Islander,14419,1394289,1034.1
+,Neoplasms,C00-D48,85+ years,85,Female,F,Black or African American,66963,4530329,1478.1
+,Neoplasms,C00-D48,85+ years,85,Female,F,White,778792,53094990,1466.8
+,Neoplasms,C00-D48,85+ years,85,Male,M,American Indian or Alaska Native,1768,112237,1575.2
+,Neoplasms,C00-D48,85+ years,85,Male,M,Asian or Pacific Islander,14124,824475,1713.1
+,Neoplasms,C00-D48,85+ years,85,Male,M,Black or African American,51946,1747405,2972.8
+,Neoplasms,C00-D48,85+ years,85,Male,M,White,640650,24932434,2569.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,85+ years,85,Female,F,American Indian or Alaska Native,92,220838,41.7
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,85+ years,85,Female,F,Asian or Pacific Islander,446,1394289,32
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,85+ years,85,Female,F,Black or African American,2677,4530329,59.1
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,85+ years,85,Female,F,White,27789,53094990,52.3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,85+ years,85,Male,M,American Indian or Alaska Native,43,112237,38.3
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,85+ years,85,Male,M,Asian or Pacific Islander,281,824475,34.1
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,85+ years,85,Male,M,Black or African American,1039,1747405,59.5
+,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,85+ years,85,Male,M,White,13708,24932434,55
+,"Endocrine, nutritional and metabolic diseases",E00-E88,85+ years,85,Female,F,American Indian or Alaska Native,1218,220838,551.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,85+ years,85,Female,F,Asian or Pacific Islander,5493,1394289,394
+,"Endocrine, nutritional and metabolic diseases",E00-E88,85+ years,85,Female,F,Black or African American,32197,4530329,710.7
+,"Endocrine, nutritional and metabolic diseases",E00-E88,85+ years,85,Female,F,White,236342,53094990,445.1
+,"Endocrine, nutritional and metabolic diseases",E00-E88,85+ years,85,Male,M,American Indian or Alaska Native,634,112237,564.9
+,"Endocrine, nutritional and metabolic diseases",E00-E88,85+ years,85,Male,M,Asian or Pacific Islander,3575,824475,433.6
+,"Endocrine, nutritional and metabolic diseases",E00-E88,85+ years,85,Male,M,Black or African American,11874,1747405,679.5
+,"Endocrine, nutritional and metabolic diseases",E00-E88,85+ years,85,Male,M,White,123481,24932434,495.3
+,Mental and behavioural disorders,F01-F99,85+ years,85,Female,F,American Indian or Alaska Native,1585,220838,717.7
+,Mental and behavioural disorders,F01-F99,85+ years,85,Female,F,Asian or Pacific Islander,9200,1394289,659.8
+,Mental and behavioural disorders,F01-F99,85+ years,85,Female,F,Black or African American,50618,4530329,1117.3
+,Mental and behavioural disorders,F01-F99,85+ years,85,Female,F,White,655910,53094990,1235.4
+,Mental and behavioural disorders,F01-F99,85+ years,85,Male,M,American Indian or Alaska Native,651,112237,580
+,Mental and behavioural disorders,F01-F99,85+ years,85,Male,M,Asian or Pacific Islander,4534,824475,549.9
+,Mental and behavioural disorders,F01-F99,85+ years,85,Male,M,Black or African American,16374,1747405,937
+,Mental and behavioural disorders,F01-F99,85+ years,85,Male,M,White,235775,24932434,945.7
+,Diseases of the nervous system,G00-G98,85+ years,85,Female,F,American Indian or Alaska Native,1446,220838,654.8
+,Diseases of the nervous system,G00-G98,85+ years,85,Female,F,Asian or Pacific Islander,8928,1394289,640.3
+,Diseases of the nervous system,G00-G98,85+ years,85,Female,F,Black or African American,42078,4530329,928.8
+,Diseases of the nervous system,G00-G98,85+ years,85,Female,F,White,658439,53094990,1240.1
+,Diseases of the nervous system,G00-G98,85+ years,85,Male,M,American Indian or Alaska Native,615,112237,547.9
+,Diseases of the nervous system,G00-G98,85+ years,85,Male,M,Asian or Pacific Islander,4894,824475,593.6
+,Diseases of the nervous system,G00-G98,85+ years,85,Male,M,Black or African American,13723,1747405,785.3
+,Diseases of the nervous system,G00-G98,85+ years,85,Male,M,White,280042,24932434,1123.2
+,Diseases of the eye and adnexa,H00-H57,85+ years,85,Female,F,Asian or Pacific Islander,5,1394289,Unreliable
+,Diseases of the eye and adnexa,H00-H57,85+ years,85,Female,F,Black or African American,23,4530329,0.5
+,Diseases of the eye and adnexa,H00-H57,85+ years,85,Female,F,White,241,53094990,0.5
+,Diseases of the eye and adnexa,H00-H57,85+ years,85,Male,M,American Indian or Alaska Native,1,112237,Unreliable
+,Diseases of the eye and adnexa,H00-H57,85+ years,85,Male,M,Asian or Pacific Islander,2,824475,Unreliable
+,Diseases of the eye and adnexa,H00-H57,85+ years,85,Male,M,Black or African American,8,1747405,Unreliable
+,Diseases of the eye and adnexa,H00-H57,85+ years,85,Male,M,White,80,24932434,0.3
+,Diseases of the ear and mastoid process,H60-H93,85+ years,85,Female,F,Asian or Pacific Islander,1,1394289,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,85+ years,85,Female,F,Black or African American,18,4530329,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,85+ years,85,Female,F,White,128,53094990,0.2
+,Diseases of the ear and mastoid process,H60-H93,85+ years,85,Male,M,American Indian or Alaska Native,1,112237,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,85+ years,85,Male,M,Asian or Pacific Islander,3,824475,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,85+ years,85,Male,M,Black or African American,4,1747405,Unreliable
+,Diseases of the ear and mastoid process,H60-H93,85+ years,85,Male,M,White,81,24932434,0.3
+,Diseases of the circulatory system,I00-I99,85+ years,85,Female,F,American Indian or Alaska Native,7727,220838,3498.9
+,Diseases of the circulatory system,I00-I99,85+ years,85,Female,F,Asian or Pacific Islander,53860,1394289,3862.9
+,Diseases of the circulatory system,I00-I99,85+ years,85,Female,F,Black or African American,272853,4530329,6022.8
+,Diseases of the circulatory system,I00-I99,85+ years,85,Female,F,White,3342932,53094990,6296.1
+,Diseases of the circulatory system,I00-I99,85+ years,85,Male,M,American Indian or Alaska Native,4121,112237,3671.7
+,Diseases of the circulatory system,I00-I99,85+ years,85,Male,M,Asian or Pacific Islander,36342,824475,4407.9
+,Diseases of the circulatory system,I00-I99,85+ years,85,Male,M,Black or African American,107981,1747405,6179.5
+,Diseases of the circulatory system,I00-I99,85+ years,85,Male,M,White,1703882,24932434,6834
+,Diseases of the respiratory system,J00-J98,85+ years,85,Female,F,American Indian or Alaska Native,2300,220838,1041.5
+,Diseases of the respiratory system,J00-J98,85+ years,85,Female,F,Asian or Pacific Islander,12438,1394289,892.1
+,Diseases of the respiratory system,J00-J98,85+ years,85,Female,F,Black or African American,42355,4530329,934.9
+,Diseases of the respiratory system,J00-J98,85+ years,85,Female,F,White,742852,53094990,1399.1
+,Diseases of the respiratory system,J00-J98,85+ years,85,Male,M,American Indian or Alaska Native,1698,112237,1512.9
+,Diseases of the respiratory system,J00-J98,85+ years,85,Male,M,Asian or Pacific Islander,12951,824475,1570.8
+,Diseases of the respiratory system,J00-J98,85+ years,85,Male,M,Black or African American,27106,1747405,1551.2
+,Diseases of the respiratory system,J00-J98,85+ years,85,Male,M,White,501073,24932434,2009.7
+,Diseases of the digestive system,K00-K92,85+ years,85,Female,F,American Indian or Alaska Native,764,220838,346
+,Diseases of the digestive system,K00-K92,85+ years,85,Female,F,Asian or Pacific Islander,3031,1394289,217.4
+,Diseases of the digestive system,K00-K92,85+ years,85,Female,F,Black or African American,14064,4530329,310.4
+,Diseases of the digestive system,K00-K92,85+ years,85,Female,F,White,207954,53094990,391.7
+,Diseases of the digestive system,K00-K92,85+ years,85,Male,M,American Indian or Alaska Native,333,112237,296.7
+,Diseases of the digestive system,K00-K92,85+ years,85,Male,M,Asian or Pacific Islander,2139,824475,259.4
+,Diseases of the digestive system,K00-K92,85+ years,85,Male,M,Black or African American,5810,1747405,332.5
+,Diseases of the digestive system,K00-K92,85+ years,85,Male,M,White,96119,24932434,385.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,85+ years,85,Female,F,American Indian or Alaska Native,75,220838,34
+,Diseases of the skin and subcutaneous tissue,L00-L98,85+ years,85,Female,F,Asian or Pacific Islander,180,1394289,12.9
+,Diseases of the skin and subcutaneous tissue,L00-L98,85+ years,85,Female,F,Black or African American,2920,4530329,64.5
+,Diseases of the skin and subcutaneous tissue,L00-L98,85+ years,85,Female,F,White,13512,53094990,25.4
+,Diseases of the skin and subcutaneous tissue,L00-L98,85+ years,85,Male,M,American Indian or Alaska Native,22,112237,19.6
+,Diseases of the skin and subcutaneous tissue,L00-L98,85+ years,85,Male,M,Asian or Pacific Islander,131,824475,15.9
+,Diseases of the skin and subcutaneous tissue,L00-L98,85+ years,85,Male,M,Black or African American,849,1747405,48.6
+,Diseases of the skin and subcutaneous tissue,L00-L98,85+ years,85,Male,M,White,5847,24932434,23.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,85+ years,85,Female,F,American Indian or Alaska Native,147,220838,66.6
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,85+ years,85,Female,F,Asian or Pacific Islander,666,1394289,47.8
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,85+ years,85,Female,F,Black or African American,2740,4530329,60.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,85+ years,85,Female,F,White,49665,53094990,93.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,85+ years,85,Male,M,American Indian or Alaska Native,57,112237,50.8
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,85+ years,85,Male,M,Asian or Pacific Islander,249,824475,30.2
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,85+ years,85,Male,M,Black or African American,952,1747405,54.5
+,Diseases of the musculoskeletal system and connective tissue,M00-M99,85+ years,85,Male,M,White,14960,24932434,60
+,Diseases of the genitourinary system,N00-N98,85+ years,85,Female,F,American Indian or Alaska Native,754,220838,341.4
+,Diseases of the genitourinary system,N00-N98,85+ years,85,Female,F,Asian or Pacific Islander,3765,1394289,270
+,Diseases of the genitourinary system,N00-N98,85+ years,85,Female,F,Black or African American,26550,4530329,586.1
+,Diseases of the genitourinary system,N00-N98,85+ years,85,Female,F,White,213591,53094990,402.3
+,Diseases of the genitourinary system,N00-N98,85+ years,85,Male,M,American Indian or Alaska Native,428,112237,381.3
+,Diseases of the genitourinary system,N00-N98,85+ years,85,Male,M,Asian or Pacific Islander,2761,824475,334.9
+,Diseases of the genitourinary system,N00-N98,85+ years,85,Male,M,Black or African American,12657,1747405,724.3
+,Diseases of the genitourinary system,N00-N98,85+ years,85,Male,M,White,136541,24932434,547.6
+,"Pregnancy, childbirth and the puerperium",O00-O99,85+ years,85,Female,F,White,3,53094990,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,85+ years,85,Female,F,White,4,53094990,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,85+ years,85,Male,M,Black or African American,1,1747405,Unreliable
+,Certain conditions originating in the perinatal period,P00-P96,85+ years,85,Male,M,White,4,24932434,Unreliable
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,85+ years,85,Female,F,American Indian or Alaska Native,6,220838,Unreliable
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,85+ years,85,Female,F,Asian or Pacific Islander,40,1394289,2.9
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,85+ years,85,Female,F,Black or African American,205,4530329,4.5
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,85+ years,85,Female,F,White,3129,53094990,5.9
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,85+ years,85,Male,M,American Indian or Alaska Native,3,112237,Unreliable
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,85+ years,85,Male,M,Asian or Pacific Islander,35,824475,4.2
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,85+ years,85,Male,M,Black or African American,107,1747405,6.1
+,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,85+ years,85,Male,M,White,1745,24932434,7
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,85+ years,85,Female,F,American Indian or Alaska Native,362,220838,163.9
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,85+ years,85,Female,F,Asian or Pacific Islander,1675,1394289,120.1
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,85+ years,85,Female,F,Black or African American,11519,4530329,254.3
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,85+ years,85,Female,F,White,150883,53094990,284.2
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,85+ years,85,Male,M,American Indian or Alaska Native,151,112237,134.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,85+ years,85,Male,M,Asian or Pacific Islander,878,824475,106.5
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,85+ years,85,Male,M,Black or African American,3872,1747405,221.6
+,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,85+ years,85,Male,M,White,55995,24932434,224.6
+,Codes for special purposes,U00-U99,85+ years,85,Male,M,White,1,24932434,Unreliable
+,External causes of morbidity and mortality,V01-Y89,85+ years,85,Female,F,American Indian or Alaska Native,489,220838,221.4
+,External causes of morbidity and mortality,V01-Y89,85+ years,85,Female,F,Asian or Pacific Islander,2533,1394289,181.7
+,External causes of morbidity and mortality,V01-Y89,85+ years,85,Female,F,Black or African American,7234,4530329,159.7
+,External causes of morbidity and mortality,V01-Y89,85+ years,85,Female,F,White,165466,53094990,311.6
+,External causes of morbidity and mortality,V01-Y89,85+ years,85,Male,M,American Indian or Alaska Native,348,112237,310.1
+,External causes of morbidity and mortality,V01-Y89,85+ years,85,Male,M,Asian or Pacific Islander,2443,824475,296.3
+,External causes of morbidity and mortality,V01-Y89,85+ years,85,Male,M,Black or African American,4836,1747405,276.8
+,External causes of morbidity and mortality,V01-Y89,85+ years,85,Male,M,White,118245,24932434,474.3
